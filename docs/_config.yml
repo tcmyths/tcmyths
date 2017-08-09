@@ -16,7 +16,7 @@ baseurl:  # the subpath of your site, e.g. /blog
 mybaseurl:  # defined to have a base url variable that isn't used for something else by Jekyll
 twitter_username: bobwatsonphd
 github_username:  tcmyths
-include: ['myths']
+include: ['myths','refs']
 google_analytics: UA-58134115-2
 author:
   name: Bob Watson
