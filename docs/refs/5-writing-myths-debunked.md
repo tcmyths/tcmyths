@@ -1,5 +1,5 @@
 ---
-title: 5 Writing Myths Debunked – Teen Authors Journal
+title: 5 Writing Myths Debunked
 permalink: /refs/5-writing-myths-debunked
 layout: ref-topic
 publish_year: 2017
