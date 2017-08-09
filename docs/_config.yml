@@ -10,8 +10,8 @@ email: tcmyths@tcmyths.com
 lang: en-US
 description: All the common technical communication myths in place.
 url: https://tcmyths.github.io # the base hostname & protocol for your site
-baseurl: /tcmyths # the subpath of your site, e.g. /blog
-mybaseurl: /tcmyths # defined to have a base url variable that isn't used for something else by Jekyll
+baseurl: /tcmyths/ # the subpath of your site, e.g. /blog
+mybaseurl: /tcmyths/ # defined to have a base url variable that isn't used for something else by Jekyll
 twitter_username: bobwatsonphd
 github_username:  tcmyths
 include: ['pages']
