@@ -5,8 +5,6 @@ myth: Tech writing is easy
 layout: myth-topic
 ---
 
-# Description
-
 The perception or belief that technical writing doesn't require any skills beyond common spelling and grammar, anyone should be able to do it. 
 
 _It's just typing._
@@ -21,7 +19,7 @@ That's what they say...when _they_ is someone who hasn't done it before.
 
 # Mentions
 
-* [5 Writing Myths Debunked]({{site.mybaseurl}}/refs/5-writing-myths-debunked/)
+* [5 Writing Myths Debunked]({{site.mybaseurl}}/refs/5-writing-myths-debunked)
 
 # References
 
