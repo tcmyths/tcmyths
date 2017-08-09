@@ -1,0 +1,25 @@
+# Site settings
+#
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: TC Myths
+owner_name: Bob Watson
+email: bobw@docsbydesign.com
+lang: en-US
+description: All the common technical communication myths in place.
+url: http://tcmyths.com # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog
+mybaseurl: / # defined to have a base url variable that isn't used for something else by Jekyll
+twitter_username: bobwatsonphd
+github_username:  docsbydesign
+include: ['pages']
+google_analytics: UA-58134115-2
+author:
+  name: Bob Watson
+  url: https://docsbydesign.com
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-tactile
