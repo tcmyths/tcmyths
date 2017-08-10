@@ -22,6 +22,12 @@
         <hr>
         <section id="main_content">
           {{ content }}
+		  
+		  <h1>References</h1>
+		  <ul>
+		  {% for file in site.includes.refs %}
+			<li>{{file.path}}</li>
+		  {% endfor%}
         </section>
         <footer>
         {% if site.github.is_project_page %}
