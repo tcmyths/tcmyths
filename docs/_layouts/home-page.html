@@ -26,7 +26,7 @@
 		  <h1>References</h1>
 		  <ul>
 		  {% for file in site.refs %}
-			<li>{{file.url}}</li>
+			<li><a href="{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
 		  {% endfor%}
         </section>
         <footer>
