@@ -25,8 +25,8 @@
 		  
 		  <h1>References</h1>
 		  <ul>
-		  {% for file in site.include %}
-			<li>{{file}}</li>
+		  {% for file in site.include.refs %}
+			<li>{{file.path}}</li>
 		  {% endfor%}
         </section>
         <footer>
