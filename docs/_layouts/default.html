@@ -23,6 +23,7 @@
         <section id="main_content">
           {{ content }}
         </section>
+		{% include disqus.html %}
         <footer>
         {% if site.github.is_project_page %}
           The myths in {{ site.title | default: site.github.repository_name }} are collected and maintained on GitHub by <a href="{{ site.github.owner_url }}/{{ site.github.repository_name }}">{{ site.github_username}} ({{ site.owner_name }})</a><br>
