@@ -16,6 +16,6 @@ last-edited-date: NEVER
 * ALL WRITING REQUIRE THE SAME KIND OF SKILL<br />&nbsp;&nbsp;&nbsp;&nbsp;in [All types of writing require the same skills]({{ site.baseurl }}/myths/all-types-of-writing-require-the-same-skills)
 * YOU NEED THE INSPIRATION TO WRITE<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You need inspiration to write]({{ site.baseurl }}/myths/you-need-inspiration-to-write)
 
-### Source
+## Source
 
 [Blake, J. (2017, April 10). 5 Writing Myths Debunked. Retrieved August 9, 2017, from http://www.teenauthorsjournal.com/5-writing-myths-debunked/](http://www.teenauthorsjournal.com/5-writing-myths-debunked/)

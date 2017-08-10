@@ -41,7 +41,7 @@ with open('RefList.csv', mode='r') as infile:
 				
 			mythList = mythList + "\n"
 			# add the citation at the bottome
-			mythList = mythList + "### Source\n\n"  + "[" + row["Citation"] + "](" + row["ref-url"] + ")\n"
+			mythList = mythList + "## Source\n\n"  + "[" + row["Citation"] + "](" + row["ref-url"] + ")\n"
 			
 			newFile.writelines (mythList)
 			#print (mythList)
