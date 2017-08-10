@@ -1,5 +1,5 @@
 ---
-title: Technical Writing: 10 Myths and Facts (Part 2)
+title: "Technical Writing: 10 Myths and Facts (Part 2)"
 permalink: /refs/technical-writing-10-myths-and-facts-part-2
 layout: ref-topic
 publish_year: 2013

@@ -1,5 +1,5 @@
 ---
-title: Mythbusters: Technical Communication Edition
+title: "Mythbusters: Technical Communication Edition"
 permalink: /refs/mythbusters-technical-communication-edition
 layout: ref-topic
 publish_year: 2015
