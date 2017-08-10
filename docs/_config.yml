@@ -4,18 +4,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TC Myths TEST
+title: TC Myths
 owner_name: Bob Watson
-email: tcmyths@docsbydesign.com
+email: tcmyths@tcmyths.com
 lang: en-US
 description: All the technical communication myths in place.
 # URLS used in the docs will always start with a slash
 #  URL variables should, therefore, NEVER end with a slash character
-url: https://docsbydesign.github.io # your URL should look like https://<YOUR_ACCOUNT>/github.io
-baseurl: /tcmyths # the subpath of your site, e.g. /blog
-mybaseurl: /tcmyths # defined to have a base url variable that isn't used for something else by Jekyll
+url: https://tcmyths.com # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+mybaseurl:  # defined to have a base url variable that isn't used for something else by Jekyll
 twitter_username: bobwatsonphd
 github_username:  tcmyths
+google_analytics: UA-58134115-2
 #
 #	These collections contain the site content
 #		myths contains the myth topics
