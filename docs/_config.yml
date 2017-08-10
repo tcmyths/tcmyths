@@ -16,7 +16,12 @@ baseurl: /tcmyths # the subpath of your site, e.g. /blog
 mybaseurl: /tcmyths # defined to have a base url variable that isn't used for something else by Jekyll
 twitter_username: bobwatsonphd
 github_username:  tcmyths
-include: ['myths','refs']
+collections:
+	myths:
+		output: true
+	refs:
+		output: true
+# include: ['myths','refs']
 author:
   name: Bob Watson
   url: https://docsbydesign.com
