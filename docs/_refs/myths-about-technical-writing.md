@@ -2,6 +2,10 @@
 title: Myths about technical writing
 permalink: /refs/myths-about-technical-writing
 layout: ref-topic
+publish_year: 2008
+ref-url: http://dita.xml.org/wiki/myths-about-technical-writing
+ref-author: Doyle, B.
+ref-date: 2008, June 12
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

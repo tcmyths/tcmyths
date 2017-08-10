@@ -2,6 +2,10 @@
 title: We need to kill some dangerous myths (programmers can't write; writers can't code)
 permalink: /refs/we-need-to-kill-some-dangerous-myths-programmers-cant-write-writers-cant-code
 layout: ref-topic
+publish_year: 2016
+ref-url: https://customersandcontent.com/2016/07/25/we-need-to-kill-some-dangerous-myths-programmers-cant-write-writers-cant-code/
+ref-author: Kaplan, N.
+ref-date: 2016, July 25
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

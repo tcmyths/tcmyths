@@ -2,6 +2,10 @@
 title: Nine myths about technical writing
 permalink: /refs/nine-myths-about-technical-writing
 layout: ref-topic
+publish_year: 2012
+ref-url: https://www.cherryleaf.com/blog/2012/10/nine-myths-about-technical-writing/
+ref-author: Pratt, E.
+ref-date: 2012, October 26
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

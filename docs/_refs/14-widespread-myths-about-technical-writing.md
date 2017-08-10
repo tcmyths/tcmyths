@@ -2,6 +2,10 @@
 title: 14 Widespread Myths about Technical Writing
 permalink: /refs/14-widespread-myths-about-technical-writing
 layout: ref-topic
+publish_year: 2008
+ref-url: http://idratherbewriting.com/2008/06/26/myths-myths-myths-about-technical-writing/
+ref-author: Johnson, T.
+ref-date: 2008, June 26
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

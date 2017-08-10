@@ -2,6 +2,10 @@
 title: Technical Writing: 10 Myths and Facts (Part 2)
 permalink: /refs/technical-writing-10-myths-and-facts-part-2
 layout: ref-topic
+publish_year: 2013
+ref-url: https://sajithajayaprakash.wordpress.com/2013/02/22/technical-writing-10-myths-and-facts-part-2/
+ref-author: Prakash, S.
+ref-date: 2013, February 22
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

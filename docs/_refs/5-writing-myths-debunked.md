@@ -2,6 +2,10 @@
 title: 5 Writing Myths Debunked
 permalink: /refs/5-writing-myths-debunked
 layout: ref-topic
+publish_year: 2017
+ref-url: http://www.teenauthorsjournal.com/5-writing-myths-debunked/
+ref-author: Blake, J.
+ref-date: 2017, April 10
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

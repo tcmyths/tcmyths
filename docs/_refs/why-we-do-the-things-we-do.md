@@ -2,6 +2,10 @@
 title: Why We Do the Things We Do
 permalink: /refs/why-we-do-the-things-we-do
 layout: ref-topic
+publish_year: 2004
+ref-url: http://www.ingentaconnect.com/contentone/stc/tc/2004/00000051/00000002/art00002
+ref-author: Hayhoe, G. F.
+ref-date: 2004, May
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

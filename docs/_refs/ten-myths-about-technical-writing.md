@@ -2,6 +2,10 @@
 title: Ten myths about technical writing
 permalink: /refs/ten-myths-about-technical-writing
 layout: ref-topic
+publish_year: 2014
+ref-url: http://bugcounting.net/blog/?p=99
+ref-author: Furia, C. A. 
+ref-date: 2014, July 20
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

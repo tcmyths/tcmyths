@@ -2,6 +2,10 @@
 title: 14 Technical Writing Misconceptions That You Should Know!
 permalink: /refs/14-technical-writing-misconceptions-that-you-should-know
 layout: ref-topic
+publish_year: 2017
+ref-url: http://academy.whatfix.com/14-misconceptions-about-technical-writing/
+ref-author: Anuradha.
+ref-date: 2017, February 25
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

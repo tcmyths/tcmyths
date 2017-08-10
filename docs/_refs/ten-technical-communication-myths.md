@@ -2,6 +2,10 @@
 title: Ten Technical Communication Myths
 permalink: /refs/ten-technical-communication-myths
 layout: ref-topic
+publish_year: 2000
+ref-url: http://www.ingentaconnect.com/contentone/stc/tc/2000/00000047/00000003/art00003
+ref-author: Hart, G.
+ref-date: 2000, August
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

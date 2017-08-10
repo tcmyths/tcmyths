@@ -2,6 +2,10 @@
 title: Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career
 permalink: /refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career
 layout: ref-topic
+publish_year: 2014
+ref-url: http://contently.net/2014/10/22/resources/technical-writing-boring-5-misconceptions-100k-career/
+ref-author: Caruso, G.
+ref-date: 2014, October 22
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

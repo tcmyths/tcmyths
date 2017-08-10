@@ -2,6 +2,10 @@
 title: Five Myths- Technical Writing Training
 permalink: /refs/five-myths-technical-writing-training
 layout: ref-topic
+publish_year: 2015
+ref-url: http://confai.com/five-myths-about-technical-writing-training
+ref-author: Bob.
+ref-date: 2015, March 1
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

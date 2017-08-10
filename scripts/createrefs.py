@@ -18,6 +18,10 @@ with open('RefList.csv', mode='r') as infile:
 				('title: ' + row['title']),
 				('permalink: ' + row['permalink']),
 				('layout: ' + row['layout']),
+				('publish_year: ' + row['publish_year']),
+				('ref-url: ' + row['ref-url']),
+				('ref-author: ' + row['ref-author']),
+				('ref-date: ' + row['ref-date']),
 				('created-date: ' + createdTime),
 				(docBody)])
 			newFile.writelines (docHead)

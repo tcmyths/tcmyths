@@ -2,6 +2,10 @@
 title: Mythbusters: Technical Communication Edition
 permalink: /refs/mythbusters-technical-communication-edition
 layout: ref-topic
+publish_year: 2015
+ref-url: http://www.newsletter.stc-carolina.org/Mythbusters%3A+Technical+Communication+Edition
+ref-author: Amity, R.
+ref-date: 2015, October 5
 created-date: 08/10/17
 last-edited-date: NEVER
 ---
