@@ -21,7 +21,6 @@
         </header>
         <hr>
         <section id="main_content">
-          {{ content }}
 		  <h1>Myths</h1>
 		  <ol>
 		  {% for file in site.myths %}
@@ -34,6 +33,7 @@
 			<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
 		  {% endfor%}
 		  </ul>
+          {{ content }}
         </section>
         <footer>
         {% if site.github.is_project_page %}
