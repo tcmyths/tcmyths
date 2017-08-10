@@ -15,6 +15,6 @@ last-edited-date: NEVER
 * technical communicators are actually quite autonomous
 developers and SMEs are reluctant to help technical communicators<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You can't talk to SMEs]({{ site.baseurl }}/myths/you-can't-talk-to-smes)
 
-### Source
+## Source
 
 [Amity, R. (2015, October 5). Mythbusters: Technical Communication Edition. Retrieved August 9, 2017, from http://www.newsletter.stc-carolina.org/Mythbusters%3A+Technical+Communication+Edition](http://www.newsletter.stc-carolina.org/Mythbusters%3A+Technical+Communication+Edition)

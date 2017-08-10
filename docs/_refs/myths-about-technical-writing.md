@@ -15,6 +15,6 @@ last-edited-date: NEVER
 * The Front-Matter Page-Numbering Myth<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Front matter must use different page numbers than the content]({{ site.baseurl }}/myths/front-matter-must-use-different-page-numbers-than-the-content)
 * The Callouts on Graphics Myth<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Callouts should not be used in graphics]({{ site.baseurl }}/myths/callouts-should-not-be-used-in-graphics)
 
-### Source
+## Source
 
 [Doyle, B. (2008, June 12). Myths about technical writing. Retrieved August 9, 2017, from http://dita.xml.org/wiki/myths-about-technical-writing](http://dita.xml.org/wiki/myths-about-technical-writing)

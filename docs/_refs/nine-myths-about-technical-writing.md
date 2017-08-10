@@ -20,6 +20,6 @@ last-edited-date: NEVER
 * Print layouts don't work on screen<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Print layouts don't work on screen]({{ site.baseurl }}/myths/print-layouts-don't-work-on-screen)
 * Everyone will need to move over to the DITA XML standard<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Everyone will need to move over to the DITA XML standard]({{ site.baseurl }}/myths/everyone-will-need-to-move-over-to-the-dita-xml-standard)
 
-### Source
+## Source
 
 [Pratt, E. (2012, October 26). Nine myths about technical writing. Retrieved August 9, 2017, from https://www.cherryleaf.com/blog/2012/10/nine-myths-about-technical-writing/](https://www.cherryleaf.com/blog/2012/10/nine-myths-about-technical-writing/)
