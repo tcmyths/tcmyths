@@ -17,10 +17,10 @@ mybaseurl: /tcmyths # defined to have a base url variable that isn't used for so
 twitter_username: bobwatsonphd
 github_username:  tcmyths
 collections:
-	myths:
-		output: true
-	refs:
-		output: true
+  myths:
+    output: true
+  refs:
+    output: true
 # include: ['myths','refs']
 author:
   name: Bob Watson
