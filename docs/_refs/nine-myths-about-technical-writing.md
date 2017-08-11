@@ -6,8 +6,10 @@ publish_year: 2012
 ref-url: https://www.cherryleaf.com/blog/2012/10/nine-myths-about-technical-writing/
 ref-author: Pratt, E.
 ref-date: 2012, October 26
+ref-type: Practitioner Blog Post
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Nobody reads the manuals<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.baseurl }}/myths/no-one-reads-technical-docs)

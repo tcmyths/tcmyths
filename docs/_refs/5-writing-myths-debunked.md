@@ -6,10 +6,10 @@ publish_year: 2017
 ref-url: http://www.teenauthorsjournal.com/5-writing-myths-debunked/
 ref-author: Blake, J.
 ref-date: 2017, April 10
-ref-type: Blog Post
+ref-type: Professional Blog Post
 comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * WRITING IS EASY, AND ANYONE CAN DO IT<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)

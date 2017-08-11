@@ -6,8 +6,10 @@ publish_year: 2013
 ref-url: https://sajithajayaprakash.wordpress.com/2013/02/22/technical-writing-10-myths-and-facts-part-1/
 ref-author: Prakash, S.
 ref-date: 2013, February 22
+ref-type: Professional Blog Post
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Become a technical writer if you want to relax at work!

@@ -9,7 +9,7 @@ ref-date: 2000, August
 ref-type: Academic Journal Article
 comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Knowledge of specific tools is vitally important<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Good technical documentation requires use of several sophisticated tools]({{ site.baseurl }}/myths/good-technical-documentation-requires-use-of-several-sophisticated-tools)

@@ -6,8 +6,10 @@ publish_year: 2015
 ref-url: http://confai.com/five-myths-about-technical-writing-training
 ref-author: Bob.
 ref-date: 2015, March 1
+ref-type: Practitioner Blog Post
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * I need to be an engineer or technically qualified to become a technical writer
