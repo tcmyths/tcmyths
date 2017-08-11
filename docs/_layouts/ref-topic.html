@@ -29,8 +29,14 @@
 			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
 			{% if page.myth-list %}
 				<p>Myths in this {{ page.ref-type }}:</p>
-			{% else %}
-				<p>This reference is a {{ page.ref-type }}.</p>
+			{% elif  %}
+			    {% assign first = page.ref-type | slice: 0 %}
+				{% assign first = first | upcase %}
+				{% if 'AEIOU' contains first %}
+					<p>This reference is an {{ page.ref-type }}.</p>
+				{% else %}
+					<p>This reference is a {{ page.ref-type }}.</p>
+				{% endif %}
 			{% endif %}
 		  </div>
           {{ content }}
