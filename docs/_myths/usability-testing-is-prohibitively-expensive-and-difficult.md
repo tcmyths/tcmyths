@@ -3,6 +3,7 @@ title: Usability testing is prohibitively expensive and difficult
 permalink: /myths/usability-testing-is-prohibitively-expensive-and-difficult
 myth: Usability testing is prohibitively expensive and difficult
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

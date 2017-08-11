@@ -3,6 +3,7 @@ title: Technical writers just write
 permalink: /myths/technical-writers-just-write
 myth: Technical writers just write
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

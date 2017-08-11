@@ -3,6 +3,7 @@ title: Transitional text plays no role in most technical content
 permalink: /myths/transitional-text-plays-no-role-in-most-technical-content
 myth: Transitional text plays no role in most technical content
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

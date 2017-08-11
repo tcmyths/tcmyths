@@ -3,6 +3,7 @@ title: Minimalism means using as little text as possible
 permalink: /myths/minimalism-means-using-as-little-text-as-possible
 myth: Minimalism means using as little text as possible
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

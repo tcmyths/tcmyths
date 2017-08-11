@@ -3,6 +3,7 @@ title: Callouts should not be used in graphics
 permalink: /myths/callouts-should-not-be-used-in-graphics
 myth: Callouts should not be used in graphics
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

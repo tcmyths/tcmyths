@@ -3,6 +3,7 @@ title: Sans serif fonts are always more legible online
 permalink: /myths/sans-serif-fonts-are-always-more-legible-online
 myth: Sans serif fonts are always more legible online
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

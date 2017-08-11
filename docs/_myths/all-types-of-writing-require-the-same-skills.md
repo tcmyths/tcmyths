@@ -3,6 +3,7 @@ title: All types of writing require the same skills
 permalink: /myths/all-types-of-writing-require-the-same-skills
 myth: All types of writing require the same skills
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: We can design away the need for a user manual and online Help
 permalink: /myths/we-can-design-away-the-need-for-a-user-manual-and-online-help
 myth: We can design away the need for a user manual and online Help
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

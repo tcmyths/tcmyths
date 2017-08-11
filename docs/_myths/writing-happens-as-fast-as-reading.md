@@ -3,6 +3,7 @@ title: Writing happens as fast as reading
 permalink: /myths/writing-happens-as-fast-as-reading
 myth: Writing happens as fast as reading
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

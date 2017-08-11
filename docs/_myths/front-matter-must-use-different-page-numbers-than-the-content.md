@@ -3,6 +3,7 @@ title: Front matter must use different page numbers than the content
 permalink: /myths/front-matter-must-use-different-page-numbers-than-the-content
 myth: Front matter must use different page numbers than the content
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

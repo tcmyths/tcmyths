@@ -3,6 +3,7 @@ title: Writing takes a lot of time
 permalink: /myths/writing-takes-a-lot-of-time
 myth: Writing takes a lot of time
 layout: myth-topic
+comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17
 ---

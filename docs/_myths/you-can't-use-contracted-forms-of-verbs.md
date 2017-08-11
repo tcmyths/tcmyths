@@ -3,6 +3,7 @@ title: You can't use contracted forms of verbs
 permalink: /myths/you-can't-use-contracted-forms-of-verbs
 myth: You can't use contracted forms of verbs
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

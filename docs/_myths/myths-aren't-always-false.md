@@ -3,6 +3,7 @@ title: Myths aren't always false
 permalink: /myths/myths-aren't-always-false
 myth: Myths aren't always false
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

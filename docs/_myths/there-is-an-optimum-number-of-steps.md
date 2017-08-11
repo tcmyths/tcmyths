@@ -3,6 +3,7 @@ title: There is an optimum number of steps
 permalink: /myths/there-is-an-optimum-number-of-steps
 myth: There is an optimum number of steps
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

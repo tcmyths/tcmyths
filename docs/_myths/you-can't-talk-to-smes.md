@@ -3,6 +3,7 @@ title: You can't talk to SMEs
 permalink: /myths/you-can't-talk-to-smes
 myth: You can't talk to SMEs
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

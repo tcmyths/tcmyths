@@ -3,6 +3,7 @@ title: If we put out manuals on the Web, our competitors will have an advantage 
 permalink: /myths/if-we-put-out-manuals-on-the-web,-our-competitors-will-have-an-advantage-over-us
 myth: If we put out manuals on the Web, our competitors will have an advantage over us
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

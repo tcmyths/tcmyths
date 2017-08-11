@@ -3,6 +3,7 @@ title: No one reads technical docs
 permalink: /myths/no-one-reads-technical-docs
 myth: No one reads technical docs
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

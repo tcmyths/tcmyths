@@ -3,6 +3,7 @@ title: Technical writers need a technical background and sound domain knowledge
 permalink: /myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge
 myth: Technical writers need a technical background and sound domain knowledge
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

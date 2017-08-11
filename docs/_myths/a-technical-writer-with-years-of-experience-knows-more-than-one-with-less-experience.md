@@ -3,6 +3,7 @@ title: A technical writer with years of experience knows more than one with less
 permalink: /myths/a-technical-writer-with-years-of-experience-knows-more-than-one-with-less-experience
 myth: A technical writer with years of experience knows more than one with less experience
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

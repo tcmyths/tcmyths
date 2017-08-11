@@ -3,6 +3,7 @@ title: You must have a bachelor's degree to become a technical writer
 permalink: /myths/you-must-have-a-bachelor's-degree-to-become-a-technical-writer
 myth: You must have a bachelor's degree to become a technical writer
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

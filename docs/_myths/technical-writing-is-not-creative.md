@@ -3,6 +3,7 @@ title: Technical writing is not creative
 permalink: /myths/technical-writing-is-not-creative
 myth: Technical writing is not creative
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

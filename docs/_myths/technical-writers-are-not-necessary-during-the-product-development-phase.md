@@ -3,6 +3,7 @@ title: Technical writers are not necessary during the product development phase
 permalink: /myths/technical-writers-are-not-necessary-during-the-product-development-phase
 myth: Technical writers are not necessary during the product development phase
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

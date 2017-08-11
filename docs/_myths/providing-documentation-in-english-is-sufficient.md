@@ -3,6 +3,7 @@ title: Providing documentation in English is sufficient
 permalink: /myths/providing-documentation-in-english-is-sufficient
 myth: Providing documentation in English is sufficient
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

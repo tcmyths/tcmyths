@@ -3,6 +3,7 @@ title: Paper structure is rigid
 permalink: /myths/paper-structure-is-rigid
 myth: Paper structure is rigid
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

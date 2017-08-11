@@ -3,6 +3,7 @@ title: Be careful about having a blog, because all employers will read it
 permalink: /myths/be-careful-about-having-a-blog,-because-all-employers-will-read-it
 myth: Be careful about having a blog, because all employers will read it
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

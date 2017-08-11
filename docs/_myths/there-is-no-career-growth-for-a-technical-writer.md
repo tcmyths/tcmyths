@@ -3,6 +3,7 @@ title: There is no career growth for a technical writer
 permalink: /myths/there-is-no-career-growth-for-a-technical-writer
 myth: There is no career growth for a technical writer
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

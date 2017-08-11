@@ -3,6 +3,7 @@ title: Software products are documented like hardware products
 permalink: /myths/software-products-are-documented-like-hardware-products
 myth: Software products are documented like hardware products
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

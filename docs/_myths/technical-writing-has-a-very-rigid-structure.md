@@ -3,6 +3,7 @@ title: Technical writing has a very rigid structure
 permalink: /myths/technical-writing-has-a-very-rigid-structure
 myth: Technical writing has a very rigid structure
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

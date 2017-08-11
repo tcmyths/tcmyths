@@ -3,6 +3,7 @@ title: Single-sourcing success just requires the right tool or technology
 permalink: /myths/single-sourcing-success-just-requires-the-right-tool-or-technology
 myth: Single-sourcing success just requires the right tool or technology
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Different floats should be numbered independently
 permalink: /myths/different-floats-should-be-numbered-independently
 myth: Different floats should be numbered independently
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---
