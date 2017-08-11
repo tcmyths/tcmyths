@@ -32,7 +32,7 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [We need to kill some dangerous myths (programmers can't write; writers can't code)]({{ site.mybaseurl }}/refs/we-need-to-kill-some-dangerous-myths-programmers-cant-write-writers-cant-code)
 
 ## References
 

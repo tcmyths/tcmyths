@@ -32,7 +32,7 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)
 
 ## References
 

@@ -32,7 +32,11 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)
+* [14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)
+* [Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)
+* [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)
 
 ## References
 
