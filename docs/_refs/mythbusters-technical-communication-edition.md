@@ -6,8 +6,12 @@ publish_year: 2015
 ref-url: http://www.newsletter.stc-carolina.org/Mythbusters%3A+Technical+Communication+Edition
 ref-author: Amity, R.
 ref-date: 2015, October 5
+ref-type: Practitioner Blog Post
+myth-list: true
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
+
 ---
 
 * technical communication is straightforward<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)

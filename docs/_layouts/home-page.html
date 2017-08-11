@@ -23,20 +23,45 @@
         <section id="main_content">
 		  <h1>Myths</h1>
 		  <ol>
+  	      {% assign myth-counter = 0 %}
+  	      {% assign myths-published = 0 %}
 		  {% for file in site.myths %}
+  	        {% assign myth-counter = myth-counter | plus: 1 %}
 			{% if file.last-edited-date != "NEVER" %}
+   	          {% assign myths-published = myths-published | plus: 1 %}
 		      <li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a></li>
 			{% endif %}
 		  {% endfor%}
-		  </ol>		  
-		  <h1>References</h1>
+		  </ol>
+   	      {% assign myths-waiting = myth-counter | minus: myths-published %}
+		  {% if myths-waiting > 0 %}
+		    {% if myths-waiting != 1 %}
+			  {% assign s = "s" %}
+			  {% assign isare = "are" %}
+			{% else %}  
+			  {% assign isare = "is" %}
+			{% endif %}  
+			<p>If you like these, there {{ isare }} still {{ myths-waiting }} more myth{{ s }} waiting to be published!</p>
+		  {% endif %}
+		  <h1>Myth lists</h1>
 		  <ul>
 		  {% for file in site.refs %}
-			<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% if file.myth-list == true %}
+				<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% endif %}
+		  {% endfor%}
+		  </ul>
+		  <h2>Other myth-related references</h2>
+		  <ul>
+		  {% for file in site.refs %}
+			{% if file.myth-list != true %}
+				<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% endif %}
 		  {% endfor%}
 		  </ul>
           {{ content }}
         </section>
+		{% include disqus.html %}
         <footer>
         {% if site.github.is_project_page %}
           The myths in {{ site.title | default: site.github.repository_name }} are collected and maintained on GitHub by <a href="{{ site.github.owner_url }}/{{ site.github.repository_name }}">{{ site.github_username}} ({{ site.owner_name }})</a><br>

@@ -7,9 +7,10 @@ ref-url: https://customersandcontent.com/2016/07/25/we-need-to-kill-some-dangero
 ref-author: Kaplan, N.
 ref-date: 2016, July 25
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Programmers can't write<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Programmers can't write]({{ site.baseurl }}/myths/programmers-can't-write)

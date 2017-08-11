@@ -4,33 +4,27 @@ permalink: /myths/writing-takes-a-lot-of-time
 myth: Writing takes a lot of time
 layout: myth-topic
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section.
+Writing always seems to take longer than expected, hoped, or desired.
 
-Be sure to update the last-edited-date value!!! ```
+## Background
 
-# Background
+This myth is likely the result of a lack of familiarity with how much effort a writing assignment requires or a desire for a writing assignment to be completed in less time than is practical. 
 
-```Detailed history of myth with references```
+## Counter Myths
 
-# Counter Myths
+* [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
 
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+## Survival tips
 
-# Commentary
+Frequent stakeholder communication can help minimize the misunderstandings that create or reinforce this notion.
 
-```Additional, more controversial comments about this myth```
+## Mentions
 
-# Mentions
+* [5 Writing Myths Debunked]({{ site.mybaseurl }}/refs/5-writing-myths-debunked)
 
-```add links to reference topics that refer mention this myth```
+## References
 
-# References
-
-```Add any addition reference cited in the background or commentary```
-
+None, yet.

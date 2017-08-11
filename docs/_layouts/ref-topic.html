@@ -24,13 +24,24 @@
 	  </a>
         <hr>
         <section id="main_content">
-          <h1>{{ page.title  }}</h1>
+          <h1>{{ page.title }}</h1>
 		  <div id="ref-link">
-			<a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})
+			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
+			{% if page.myth-list %}
+				<p>Myths in this {{ page.ref-type }}:</p>
+			{% else  %}
+			    {% assign first = page.ref-type | slice: 0 | upcase %}
+				{% if 'AEIOU' contains first %}
+					{% assign prep = "an" %}
+				{% else %}
+					{% assign prep = "a" %}
+				{% endif %}
+				<p>This reference is {{ prep }} {{ page.ref-type }}.</p>
+			{% endif %}
 		  </div>
           {{ content }}
         </section>
-
+		{% include disqus.html %}
         <footer>
         {% if site.github.is_project_page %}
           The myths in {{ site.title | default: site.github.repository_name }} are collected and maintained on GitHub by <a href="{{ site.github.owner_url }}/{{ site.github.repository_name }}">{{ site.github_username}} ({{ site.owner_name }})</a><br>

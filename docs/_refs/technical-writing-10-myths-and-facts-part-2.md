@@ -6,8 +6,11 @@ publish_year: 2013
 ref-url: https://sajithajayaprakash.wordpress.com/2013/02/22/technical-writing-10-myths-and-facts-part-2/
 ref-author: Prakash, S.
 ref-date: 2013, February 22
+ref-type: Professional Blog Post
+myth-list: true
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Technical writers have nothing much to do<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)

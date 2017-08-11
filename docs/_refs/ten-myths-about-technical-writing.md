@@ -6,14 +6,15 @@ publish_year: 2014
 ref-url: http://bugcounting.net/blog/?p=99
 ref-author: Furia, C. A. 
 ref-date: 2014, July 20
+ref-type: Professional Blog Post
+myth-list: true
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
-* Anyone can do it
-It's all the same<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)
-* It's not important
-I don't need it<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.baseurl }}/myths/no-one-reads-technical-docs)
+* Anyone can do it & It's all the same<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)
+* It's not important & I don't need it<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.baseurl }}/myths/no-one-reads-technical-docs)
 * Two columns are better than one<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Two columns are better than one]({{ site.baseurl }}/myths/two-columns-are-better-than-one)
 * You can't use contracted forms of verbs<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You can't use contracted forms of verbs]({{ site.baseurl }}/myths/you-can't-use-contracted-forms-of-verbs)
 * Italicizing foreign words is de rigueur<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Foreign language terms should be italicized]({{ site.baseurl }}/myths/foreign-language-terms-should-be-italicized)

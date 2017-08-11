@@ -6,8 +6,11 @@ publish_year: 2017
 ref-url: http://academy.whatfix.com/14-misconceptions-about-technical-writing/
 ref-author: Anuradha.
 ref-date: 2017, February 25
+ref-type: Practitioner Blog Post
+myth-list: true
+comments: true
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * Technical writers simply write a user manual. It is called by various fancy names for different products<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers write only user manuals]({{ site.baseurl }}/myths/technical-writers-write-only-user-manuals)

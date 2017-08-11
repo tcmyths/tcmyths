@@ -3,34 +3,38 @@ title: Documents should never use all caps
 permalink: /myths/documents-should-never-use-all-caps
 myth: Documents should never use all caps
 layout: myth-topic
-created-date: 08/10/17
+created-date: 08/11/17
 last-edited-date: NEVER
 ---
 
 ```A summary description of the myth--no more than a line or two. 
 This should be neutral and descriptive. Save the commentary for the 
-Commentary section.
+Commentary section. ```
 
-Be sure to update the last-edited-date value!!! ```
+```AND be sure to update the last-edited-date value!!! ```
 
-# Background
+## Background
 
-```Detailed history of myth with references```
+```Detailed history of the myth with references, where possible```
 
-# Counter Myths
+## Counter Myths
 
 ```List any myths that are essentially the opposite of this myth.
 If there are no such counter myths, delete this section from the topic.```
 
-# Commentary
+## Survival tips
 
-```Additional, more controversial comments about this myth```
+```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
 
-# Mentions
+## Commentary
+
+```Additional, more controversial comments about this myth. If none, delete this heading.```
+
+## Mentions
 
 ```add links to reference topics that refer mention this myth```
 
-# References
+## References
 
 ```Add any addition reference cited in the background or commentary```
 
