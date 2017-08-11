@@ -12,7 +12,8 @@ with open('RefList.csv', mode='r') as infile:
 	for row in reader:
 		newFileName = '..\\docs\\_refs\\' + row['filename'] + '.md'
 		print ('Creating: ' + newFileName )
-		with open (newFileName, mode='w') as newFile:
+		# uncomment next line to create files
+		# with open (newFileName, mode='w') as newFile:
 		#if True:
 			docHead = '\n'.join([('---'),
 				('title: ' + row['title']),

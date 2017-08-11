@@ -17,7 +17,7 @@ Commentary section. ```
 
 ```Detailed history of the myth with references, where possible```
 
-## Counter Myths
+## Counter myths
 
 ```List any myths that are essentially the opposite of this myth.
 If there are no such counter myths, delete this section from the topic.```
