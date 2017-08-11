@@ -19,7 +19,7 @@ This myth is likely the result of a lack of familiarity with how much effort a w
 
 ## Survival tips
 
-The misunderstandings that create or reinforce this notion can be minimized through clear and frequent stakeholder communication.
+Frequent stakeholder communication can help minimize the misunderstandings that create or reinforce this notion.
 
 ## Mentions
 
