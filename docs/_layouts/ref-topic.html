@@ -31,7 +31,9 @@
 				<p>Myths in this {{ page.ref-type }}:</p>
 			{% elif  %}
 			    {% assign first = page.ref-type | slice: 0 %}
+				<!-- first: {% first %} -->
 				{% assign first = first | upcase %}
+				<!-- first: {% first %} -->
 				{% if 'AEIOU' contains first %}
 					<p>This reference is an {{ page.ref-type }}.</p>
 				{% else %}
