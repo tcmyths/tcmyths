@@ -28,7 +28,7 @@
   	      {% assign myths-published = 0 %}
 		  <!-- myths-published =  {{ myths-published }} -->
 		  {% for file in site.myths %}
-  	      {% assign myth-counter = myth-counter | plus: 1 %}
+  	        {% assign myth-counter = myth-counter | plus: 1 %}
 			{% if file.last-edited-date != "NEVER" %}
    	          {% assign myths-published = myths-published | plus: 1 %}
 		      <li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a></li>
@@ -42,7 +42,10 @@
 		  <!-- myths-published =  {{ myths-published }} -->
 		  <!-- myths-waiting =  {{ myths-waiting }} -->
 		  {% if myths-waiting > 0 %}
-			<p>If you like these, there are still {{ myths-waiting }} more myths that are soon to be published!</p>
+		    {% if myths-waiting != 1 %}
+			  {% assign s = "s" %}
+			{% endif %}  
+			<p>If you like these, there are still {{ myths-waiting }} more myth{{ s }} waiting to be published!</p>
 		  {% endif %}
 		  <h1>Myth lists</h1>
 		  <ul>
