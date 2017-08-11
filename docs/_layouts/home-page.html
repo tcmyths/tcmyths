@@ -23,14 +23,14 @@
         <section id="main_content">
 		  <h1>Myths</h1>
 		  <ol>
-  	      {% assign myth-counter = 0 %}
+  	      {% increment myth-counter %}
 		  <!-- myth-counter =  {{ myth-counter }} -->
-  	      {% assign myths-published = 0 %}
+  	      {% increment myths-published %}
 		  <!-- myths-published =  {{ myths-published }} -->
 		  {% for file in site.myths %}
-  	        {% assign myth-counter = myth-counter + 1 %}
+  	      {% increment myth-counter %}
 			{% if file.last-edited-date != "NEVER" %}
-     	      {% assign myths-published = myths-published + 1 %}
+   	        {% increment myths-published %}
 		      <li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a></li>
 			  <!-- myth-counter =  {{ myth-counter }} -->
 			  <!-- myths-published =  {{ myths-published }} -->
