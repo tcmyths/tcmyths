@@ -32,7 +32,8 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [Ten Technical Communication Myths]({{ site.mybaseurl }}/refs/ten-technical-communication-myths)
+* [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)
 
 ## References
 

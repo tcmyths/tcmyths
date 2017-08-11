@@ -32,7 +32,10 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [Nine myths about technical writing]({{ site.mybaseurl }}/refs/nine-myths-about-technical-writing)
+* [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)
+* [Ten myths about technical writing]({{ site.mybaseurl }}/refs/ten-myths-about-technical-writing)
 
 ## References
 
