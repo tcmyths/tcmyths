@@ -24,10 +24,10 @@
 	  </a>
         <hr>
         <section id="main_content">
-          <h1>{{ page.title  }}</h1>
 		  {% if page.last-edited-date == "NEVER" %}
-		    <h2>AWAITING CONTENT</h2>
+		    <h2>*** This myth is waiting for content ***</h2>
 		  {% endif %}
+          <h1>{{ page.title  }}</h1>
           {{ content }}
         </section>
 		{% include disqus.html %}
