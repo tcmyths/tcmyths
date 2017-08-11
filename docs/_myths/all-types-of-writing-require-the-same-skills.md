@@ -32,7 +32,7 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [5 Writing Myths Debunked]({{ site.mybaseurl }}/refs/5-writing-myths-debunked)
 
 ## References
 
