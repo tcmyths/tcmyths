@@ -7,6 +7,7 @@ ref-url: http://contently.net/2014/10/22/resources/technical-writing-boring-5-mi
 ref-author: Caruso, G.
 ref-date: 2014, October 22
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

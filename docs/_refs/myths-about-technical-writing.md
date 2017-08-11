@@ -7,6 +7,7 @@ ref-url: http://dita.xml.org/wiki/myths-about-technical-writing
 ref-author: Doyle, B.
 ref-date: 2008, June 12
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

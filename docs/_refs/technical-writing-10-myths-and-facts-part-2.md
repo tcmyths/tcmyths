@@ -7,6 +7,7 @@ ref-url: https://sajithajayaprakash.wordpress.com/2013/02/22/technical-writing-1
 ref-author: Prakash, S.
 ref-date: 2013, February 22
 ref-type: Professional Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

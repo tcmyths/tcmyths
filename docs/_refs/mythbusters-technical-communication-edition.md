@@ -7,6 +7,7 @@ ref-url: http://www.newsletter.stc-carolina.org/Mythbusters%3A+Technical+Communi
 ref-author: Amity, R.
 ref-date: 2015, October 5
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

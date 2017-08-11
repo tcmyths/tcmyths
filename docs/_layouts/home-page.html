@@ -29,10 +29,20 @@
 			{% endif %}
 		  {% endfor%}
 		  </ol>		  
-		  <h1>References</h1>
+		  <h1>Myth lists</h1>
 		  <ul>
 		  {% for file in site.refs %}
-			<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% if file.myth-list == true %}
+				<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% endif %}
+		  {% endfor%}
+		  </ul>
+		  <h2>Other myth-related references</h2>
+		  <ul>
+		  {% for file in site.refs %}
+			{% if file.myth-list != true %}
+				<li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a> {{file.ref-author}} ({{file.ref-date}})</li>
+			{% endif %}
 		  {% endfor%}
 		  </ul>
           {{ content }}

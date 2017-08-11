@@ -7,6 +7,7 @@ ref-url: http://www.teenauthorsjournal.com/5-writing-myths-debunked/
 ref-author: Blake, J.
 ref-date: 2017, April 10
 ref-type: Professional Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

@@ -7,6 +7,7 @@ ref-url: http://www.ingentaconnect.com/contentone/stc/tc/2000/00000047/00000003/
 ref-author: Hart, G.
 ref-date: 2000, August
 ref-type: Academic Journal Article
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

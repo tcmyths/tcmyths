@@ -7,6 +7,7 @@ ref-url: http://bugcounting.net/blog/?p=99
 ref-author: Furia, C. A. 
 ref-date: 2014, July 20
 ref-type: Professional Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

@@ -7,6 +7,7 @@ ref-url: https://www.cherryleaf.com/blog/2012/10/nine-myths-about-technical-writ
 ref-author: Pratt, E.
 ref-date: 2012, October 26
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17
