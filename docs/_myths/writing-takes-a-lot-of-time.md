@@ -13,7 +13,7 @@ Writing always seems to take longer than expected, hoped, or desired.
 
 This myth is likely the result of a lack of familiarity with how much effort a writing assignment requires or a desire for a writing assignment to be completed in less time than is practical. 
 
-## Counter Myths
+## Counter myths
 
 * [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
 

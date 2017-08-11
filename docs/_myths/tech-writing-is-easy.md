@@ -13,7 +13,7 @@ The perception or belief that technical writing doesn't require any skills beyon
 
 This belief is usually held by someone who is not familiar with or doesn't know what the job entails. This view is also expressed as, _"It's just typing."_
 
-## Counter Myths
+## Counter myths
 
 * [Writing takes a lot of time]({{ site.mybaseurl }}/myths/writing-takes-a-lot-of-time)
 
