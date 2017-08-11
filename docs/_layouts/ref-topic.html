@@ -27,18 +27,16 @@
           <h1>{{ page.title }}</h1>
 		  <div id="ref-link">
 			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
-			{% if page.myth-list == true %}
+			{% if page.myth-list %}
 				<p>Myths in this {{ page.ref-type }}:</p>
 			{% else  %}
-			    {% assign first = page.ref-type | slice: 0 %}
-				<!-- first: {{ first }} -->
-				{% assign first = first | upcase %}
-				<!-- first: {{ first }} -->
+			    {% assign first = page.ref-type | slice: 0 | upcase %}
 				{% if 'AEIOU' contains first %}
-					<p>This reference is an {{ page.ref-type }}.</p>
+					{% assign prep = "an" %}
 				{% else %}
-					<p>This reference is a {{ page.ref-type }}.</p>
+					{% assign prep = "a" %}
 				{% endif %}
+				<p>This reference is {{ prep }} {{ page.ref-type }}.</p>
 			{% endif %}
 		  </div>
           {{ content }}
