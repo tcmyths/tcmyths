@@ -27,9 +27,9 @@
           <h1>{{ page.title }}</h1>
 		  <div id="ref-link">
 			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
-			{% if page.myth-list %}
+			{% if page.myth-list == true %}
 				<p>Myths in this {{ page.ref-type }}:</p>
-			{% elif  %}
+			{% else  %}
 			    {% assign first = page.ref-type | slice: 0 %}
 				<!-- first: {% first %} -->
 				{% assign first = first | upcase %}
