@@ -15,6 +15,10 @@ _It's just typing._
 
 This belief is usually held by someone who is not familiar with or doesn't know what the job entails.
 
+# Counter Myths
+
+* [Writing takes a lot of time]({{ site.mybaseurl }}/myths/writing-takes-a-lot-of-time)
+
 # Commentary
 
 This belief can also be expressed by someone who wishes to minimize the value of the role.

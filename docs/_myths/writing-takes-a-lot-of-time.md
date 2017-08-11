@@ -11,7 +11,7 @@ Writing always seems to take longer than expected, hoped, or desired.
 
 # Background
 
-This myth likely came about from a lack of familiarity of how much effort is required to complete a writing assignment. 
+This myth is likely the result of a lack of familiarity with how much effort a writing assignment requires or a desire for a writing assignment to be completed in less time than is practical. 
 
 # Counter Myths
 
