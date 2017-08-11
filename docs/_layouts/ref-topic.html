@@ -27,7 +27,11 @@
           <h1>{{ page.title }}</h1>
 		  <div id="ref-link">
 			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
-			<p>Myths in this {{ page.ref-type }}:</p>
+			{% if page.myth-list %}
+				<p>Myths in this {{ page.ref-type }}:</p>
+			{% else %}
+				<p>This reference is a {{ page.ref-type }}.</p>
+			{% endif %}
 		  </div>
           {{ content }}
         </section>

@@ -7,6 +7,7 @@ ref-url: http://idratherbewriting.com/2008/06/26/myths-myths-myths-about-technic
 ref-author: Johnson, T.
 ref-date: 2008, June 26
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17

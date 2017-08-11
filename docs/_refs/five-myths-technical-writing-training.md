@@ -7,6 +7,7 @@ ref-url: http://confai.com/five-myths-about-technical-writing-training
 ref-author: Bob.
 ref-date: 2015, March 1
 ref-type: Practitioner Blog Post
+myth-list: true
 comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17
