@@ -1,6 +1,7 @@
 ---
 title: TC Myths coming soon
-layout: root-page
+permalink: coming-soon
+layout: coming-soon
 comments: true
 ---
 
