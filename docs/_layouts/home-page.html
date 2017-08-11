@@ -24,28 +24,24 @@
 		  <h1>Myths</h1>
 		  <ol>
   	      {% assign myth-counter = 0 %}
-		  <!-- myth-counter =  {{ myth-counter }} -->
   	      {% assign myths-published = 0 %}
-		  <!-- myths-published =  {{ myths-published }} -->
 		  {% for file in site.myths %}
   	        {% assign myth-counter = myth-counter | plus: 1 %}
 			{% if file.last-edited-date != "NEVER" %}
    	          {% assign myths-published = myths-published | plus: 1 %}
 		      <li><a href="{{site.mybaseurl}}{{file.url}}" title="{{file.title}}">{{file.title}}</a></li>
-			  <!-- myth-counter =  {{ myth-counter }} -->
-			  <!-- myths-published =  {{ myths-published }} -->
 			{% endif %}
 		  {% endfor%}
 		  </ol>
    	      {% assign myths-waiting = myth-counter | minus: myths-published %}
-		  <!-- myth-counter =  {{ myth-counter }} -->
-		  <!-- myths-published =  {{ myths-published }} -->
-		  <!-- myths-waiting =  {{ myths-waiting }} -->
 		  {% if myths-waiting > 0 %}
 		    {% if myths-waiting != 1 %}
 			  {% assign s = "s" %}
+			  {% assign isare = "are" %}
+			{% else %}  
+			  {% assign isare = "is" %}
 			{% endif %}  
-			<p>If you like these, there are still {{ myths-waiting }} more myth{{ s }} waiting to be published!</p>
+			<p>If you like these, there {{ isare }} still {{ myths-waiting }} more myth{{ s }} waiting to be published!</p>
 		  {% endif %}
 		  <h1>Myth lists</h1>
 		  <ul>
