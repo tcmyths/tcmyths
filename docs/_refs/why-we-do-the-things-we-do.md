@@ -6,6 +6,8 @@ publish_year: 2004
 ref-url: http://www.ingentaconnect.com/contentone/stc/tc/2004/00000051/00000002/art00002
 ref-author: Hayhoe, G. F.
 ref-date: 2004, May
+ref-type: Academic Journal Article
+comments: true
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

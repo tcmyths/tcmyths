@@ -6,6 +6,8 @@ publish_year: 2016
 ref-url: https://customersandcontent.com/2016/07/25/we-need-to-kill-some-dangerous-myths-programmers-cant-write-writers-cant-code/
 ref-author: Kaplan, N.
 ref-date: 2016, July 25
+ref-type: Practitioner Blog Post
+comments: true
 created-date: 08/10/17
 last-edited-date: NEVER
 ---
