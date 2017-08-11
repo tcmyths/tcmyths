@@ -3,6 +3,7 @@ title: Technical writing is just listing product features
 permalink: /myths/technical-writing-is-just-listing-product-features
 myth: Technical writing is just listing product features
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

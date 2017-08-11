@@ -3,6 +3,7 @@ title: Tech writing is easy
 permalink: /myths/tech-writing-is-easy
 myth: Tech writing is easy
 layout: myth-topic
+comments: true
 created-date: 08/10/17
 last-edited-date: 08/10/17
 ---

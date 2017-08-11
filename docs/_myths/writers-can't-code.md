@@ -3,6 +3,7 @@ title: Writers can't code
 permalink: /myths/writers-can't-code
 myth: Writers can't code
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

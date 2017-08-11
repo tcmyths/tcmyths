@@ -3,6 +3,7 @@ title: Technical writers only write about highly technical, scientific, technolo
 permalink: /myths/technical-writers-only-write-about-highly-technical,-scientific,-technological,-medical,-or-systematic-topics
 myth: Technical writers only write about highly technical, scientific, technological, medical, or systematic topics
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

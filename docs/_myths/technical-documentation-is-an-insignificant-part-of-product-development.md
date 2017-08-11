@@ -3,6 +3,7 @@ title: Technical documentation is an insignificant part of product development
 permalink: /myths/technical-documentation-is-an-insignificant-part-of-product-development
 myth: Technical documentation is an insignificant part of product development
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: You need a high command of  English
 permalink: /myths/you-need-a-high-command-of-english
 myth: You need a high command of  English
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

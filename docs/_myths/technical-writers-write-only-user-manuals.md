@@ -3,6 +3,7 @@ title: Technical writers write only user manuals
 permalink: /myths/technical-writers-write-only-user-manuals
 myth: Technical writers write only user manuals
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

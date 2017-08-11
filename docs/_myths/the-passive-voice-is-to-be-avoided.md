@@ -3,6 +3,7 @@ title: The passive voice is to be avoided
 permalink: /myths/the-passive-voice-is-to-be-avoided
 myth: The passive voice is to be avoided
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

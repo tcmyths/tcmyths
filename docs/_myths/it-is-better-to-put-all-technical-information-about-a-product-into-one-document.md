@@ -3,6 +3,7 @@ title: It is better to put all technical information about a product into one do
 permalink: /myths/it-is-better-to-put-all-technical-information-about-a-product-into-one-document
 myth: It is better to put all technical information about a product into one document
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

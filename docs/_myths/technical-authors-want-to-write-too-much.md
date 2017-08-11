@@ -3,6 +3,7 @@ title: Technical Authors want to write too much
 permalink: /myths/technical-authors-want-to-write-too-much
 myth: Technical Authors want to write too much
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

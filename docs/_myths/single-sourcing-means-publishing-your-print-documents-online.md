@@ -3,6 +3,7 @@ title: Single-sourcing means publishing your print documents online
 permalink: /myths/single-sourcing-means-publishing-your-print-documents-online
 myth: Single-sourcing means publishing your print documents online
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

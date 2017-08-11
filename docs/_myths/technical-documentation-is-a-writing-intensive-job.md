@@ -3,6 +3,7 @@ title: Technical documentation is a writing intensive job
 permalink: /myths/technical-documentation-is-a-writing-intensive-job
 myth: Technical documentation is a writing intensive job
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

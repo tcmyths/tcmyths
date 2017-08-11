@@ -3,6 +3,7 @@ title: Two columns are better than one
 permalink: /myths/two-columns-are-better-than-one
 myth: Two columns are better than one
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Good documentation can fix a bad interface or design
 permalink: /myths/good-documentation-can-fix-a-bad-interface-or-design
 myth: Good documentation can fix a bad interface or design
 layout: myth-topic
+comments: true
 created-date: 08/10/17
 last-edited-date: 08/11/17
 ---

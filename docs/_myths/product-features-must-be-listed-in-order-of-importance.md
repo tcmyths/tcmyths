@@ -3,6 +3,7 @@ title: Product features must be listed in order of importance
 permalink: /myths/product-features-must-be-listed-in-order-of-importance
 myth: Product features must be listed in order of importance
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

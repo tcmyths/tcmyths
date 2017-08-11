@@ -3,6 +3,7 @@ title: On an Agile project, you'll save time by doing the documentation last
 permalink: /myths/on-an-agile-project,-you'll-save-time-by-doing-the-documentation-last
 myth: On an Agile project, you'll save time by doing the documentation last
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

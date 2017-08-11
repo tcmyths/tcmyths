@@ -3,6 +3,7 @@ title: If we put our manuals on the web, we'll lose Support revenues
 permalink: /myths/if-we-put-our-manuals-on-the-web,-we'll-lose-support-revenues
 myth: If we put our manuals on the web, we'll lose Support revenues
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Sentences should be kept short
 permalink: /myths/sentences-should-be-kept-short
 myth: Sentences should be kept short
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

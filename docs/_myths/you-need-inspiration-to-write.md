@@ -3,6 +3,7 @@ title: You need inspiration to write
 permalink: /myths/you-need-inspiration-to-write
 myth: You need inspiration to write
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Foreign language terms should be italicized
 permalink: /myths/foreign-language-terms-should-be-italicized
 myth: Foreign language terms should be italicized
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

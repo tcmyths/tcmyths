@@ -3,6 +3,7 @@ title: Technical writing academics are disconnected with the profession
 permalink: /myths/technical-writing-academics-are-disconnected-with-the-profession
 myth: Technical writing academics are disconnected with the profession
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

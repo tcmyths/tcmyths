@@ -3,6 +3,7 @@ title: Only key features of the product need documentation
 permalink: /myths/only-key-features-of-the-product-need-documentation
 myth: Only key features of the product need documentation
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Everyone will need to move over to the DITA XML standard
 permalink: /myths/everyone-will-need-to-move-over-to-the-dita-xml-standard
 myth: Everyone will need to move over to the DITA XML standard
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

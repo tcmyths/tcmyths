@@ -3,6 +3,7 @@ title: Technical writing must be objective
 permalink: /myths/technical-writing-must-be-objective
 myth: Technical writing must be objective
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Abbreviations can be used frequently
 permalink: /myths/abbreviations-can-be-used-frequently
 myth: Abbreviations can be used frequently
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

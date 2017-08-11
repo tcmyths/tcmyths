@@ -3,6 +3,7 @@ title: Technical writers are not paid well
 permalink: /myths/technical-writers-are-not-paid-well
 myth: Technical writers are not paid well
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

@@ -3,6 +3,7 @@ title: Stem sentences are not necessary in technical content
 permalink: /myths/stem-sentences-are-not-necessary-in-technical-content
 myth: Stem sentences are not necessary in technical content
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

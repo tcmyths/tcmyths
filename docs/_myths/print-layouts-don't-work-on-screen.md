@@ -3,6 +3,7 @@ title: Print layouts don't work on screen
 permalink: /myths/print-layouts-don't-work-on-screen
 myth: Print layouts don't work on screen
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

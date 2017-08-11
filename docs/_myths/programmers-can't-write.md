@@ -3,6 +3,7 @@ title: Programmers can't write
 permalink: /myths/programmers-can't-write
 myth: Programmers can't write
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

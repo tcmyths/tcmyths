@@ -3,6 +3,7 @@ title: It is better to omit information about any product limitations from techn
 permalink: /myths/it-is-better-to-omit-information-about-any-product-limitations-from-technical-documents
 myth: It is better to omit information about any product limitations from technical documents
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

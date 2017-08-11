@@ -3,6 +3,7 @@ title: Never use citations as nouns
 permalink: /myths/never-use-citations-as-nouns
 myth: Never use citations as nouns
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

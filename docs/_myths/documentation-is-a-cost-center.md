@@ -3,6 +3,7 @@ title: Documentation is a cost center
 permalink: /myths/documentation-is-a-cost-center
 myth: Documentation is a cost center
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

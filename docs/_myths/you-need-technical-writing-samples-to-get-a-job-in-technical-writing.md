@@ -3,6 +3,7 @@ title: You need technical writing samples to get a job in technical writing
 permalink: /myths/you-need-technical-writing-samples-to-get-a-job-in-technical-writing
 myth: You need technical writing samples to get a job in technical writing
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

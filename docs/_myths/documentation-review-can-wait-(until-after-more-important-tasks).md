@@ -3,6 +3,7 @@ title: Documentation review can wait (until after more important tasks)
 permalink: /myths/documentation-review-can-wait-(until-after-more-important-tasks)
 myth: Documentation review can wait (until after more important tasks)
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

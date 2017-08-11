@@ -3,6 +3,7 @@ title: Technical writers are not necessary because the SMEs can write
 permalink: /myths/technical-writers-are-not-necessary-because-the-smes-can-write
 myth: Technical writers are not necessary because the SMEs can write
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

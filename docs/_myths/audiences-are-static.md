@@ -3,6 +3,7 @@ title: Audiences are static
 permalink: /myths/audiences-are-static
 myth: Audiences are static
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

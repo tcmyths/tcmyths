@@ -3,6 +3,7 @@ title: Good technical documentation requires use of several sophisticated tools
 permalink: /myths/good-technical-documentation-requires-use-of-several-sophisticated-tools
 myth: Good technical documentation requires use of several sophisticated tools
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---

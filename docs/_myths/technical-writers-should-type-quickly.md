@@ -3,6 +3,7 @@ title: Technical writers should type quickly
 permalink: /myths/technical-writers-should-type-quickly
 myth: Technical writers should type quickly
 layout: myth-topic
+comments: true
 created-date: 08/11/17
 last-edited-date: NEVER
 ---
