@@ -6,6 +6,8 @@ publish_year: 2017
 ref-url: http://academy.whatfix.com/14-misconceptions-about-technical-writing/
 ref-author: Anuradha.
 ref-date: 2017, February 25
+ref-type: Practitioner Blog Post
+comments: true
 created-date: 08/10/17
 last-edited-date: NEVER
 ---

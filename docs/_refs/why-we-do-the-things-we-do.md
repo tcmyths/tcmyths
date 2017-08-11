@@ -7,10 +7,14 @@ ref-url: http://www.ingentaconnect.com/contentone/stc/tc/2004/00000051/00000002/
 ref-author: Hayhoe, G. F.
 ref-date: 2004, May
 created-date: 08/10/17
-last-edited-date: NEVER
+last-edited-date: 08/10/17
 ---
 
 * 5-to-7-plus-or-minus-2<br />procedures should have no more than nine steps<br />bulleted lists should contain only five to seven items <br />&nbsp;&nbsp;&nbsp;&nbsp;in [There is an optimum number of steps]({{ site.baseurl }}/myths/there-is-an-optimum-number-of-steps)
+
+## Remarks
+
+This article doesn't describe myths as much as it explains why they might play a larger than expected role in technical communication.
 
 ## Source
 
