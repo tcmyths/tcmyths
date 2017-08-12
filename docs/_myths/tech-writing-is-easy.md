@@ -32,4 +32,4 @@ This belief can also be expressed by someone who wishes to minimize the value of
 
 ## References
 
-None yet.
+None yet. If you find some, please let me know in the comments.
