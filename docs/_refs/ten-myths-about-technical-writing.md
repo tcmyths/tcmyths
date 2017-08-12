@@ -10,11 +10,9 @@ ref-type: Professional Blog Post
 myth-list: true
 comments: true
 created-date: 08/10/17
-last-edited-date: 08/10/17
+last-edited-date: 08/12/17
 ---
 
-* Anyone can do it & It's all the same<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
-* It's not important & I don't need it<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.mybaseurl }}/myths/no-one-reads-technical-docs)
 * Two columns are better than one<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Two columns are better than one]({{ site.mybaseurl }}/myths/two-columns-are-better-than-one)
 * You can't use contracted forms of verbs<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You can't use contracted forms of verbs]({{ site.mybaseurl }}/myths/you-can't-use-contracted-forms-of-verbs)
 * Italicizing foreign words is de rigueur<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Foreign language terms should be italicized]({{ site.mybaseurl }}/myths/foreign-language-terms-should-be-italicized)
@@ -25,6 +23,11 @@ last-edited-date: 08/10/17
 * Paper structure is rigid; in particular, the first section is Introduction, the last section is Conclusion(s)<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Paper structure is rigid]({{ site.mybaseurl }}/myths/paper-structure-is-rigid)
 * IOKTUAP (i.e., It's OK To Use Abbreviations Profusely)<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Abbreviations can be used frequently]({{ site.mybaseurl }}/myths/abbreviations-can-be-used-frequently)
 * Sentences should be kept short<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Sentences should be kept short]({{ site.mybaseurl }}/myths/sentences-should-be-kept-short)
+
+## Remarks
+
+This reference is listed as a list of technical-writing myths, but the conten seems to refer more to academic writing or technical article writing.
+
 
 ## Source
 
