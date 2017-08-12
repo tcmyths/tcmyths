@@ -2,8 +2,9 @@
 ul, ol, dl { margin-left: 2.0em; }
 
 /* to tweak the main UI elements but keep the rest of the theme */
-a { color: #000cff; }
-a:hover { color: #000cff; text-decoration: underline; }
 body { color: #4b4b4b; background: #FFF; }
 footer { color: #555; }
-#container {background: #FFF; }
+a { color: #000cff; }
+a:hover { color: #000cff; text-decoration: underline; }
+.headlink a { color: #000cff; }
+.headlink a:hover { color: #000cff; text-decoration: none; }
