@@ -13,12 +13,12 @@ created-date: 08/10/17
 last-edited-date: 08/10/17
 ---
 
-* Technical writers need a technical background<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers need a technical background and sound domain knowledge]({{ site.baseurl }}/myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge)
-* Technical writing is boring and lacks creativity<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writing is not creative]({{ site.baseurl }}/myths/technical-writing-is-not-creative)
-* Technical writers only write about highly technical, scientific, technological, medical, or systematic topics<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers only write about highly technical, scientific, technological, medical, or systematic topics]({{ site.baseurl }}/myths/technical-writers-only-write-about-highly-technical,-scientific,-technological,-medical,-or-systematic-topics)
-* Technical writers are not paid well<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers are not paid well]({{ site.baseurl }}/myths/technical-writers-are-not-paid-well)
-* Technical writing has a very rigid structure<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writing has a very rigid structure]({{ site.baseurl }}/myths/technical-writing-has-a-very-rigid-structure)
-* You must have a bachelor's degree to become a technical writer<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You must have a bachelor's degree to become a technical writer]({{ site.baseurl }}/myths/you-must-have-a-bachelor's-degree-to-become-a-technical-writer)
+* Technical writers need a technical background<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers need a technical background and sound domain knowledge]({{ site.mybaseurl }}/myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge)
+* Technical writing is boring and lacks creativity<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writing is not creative]({{ site.mybaseurl }}/myths/technical-writing-is-not-creative)
+* Technical writers only write about highly technical, scientific, technological, medical, or systematic topics<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers only write about highly technical, scientific, technological, medical, or systematic topics]({{ site.mybaseurl }}/myths/technical-writers-only-write-about-highly-technical,-scientific,-technological,-medical,-or-systematic-topics)
+* Technical writers are not paid well<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers are not paid well]({{ site.mybaseurl }}/myths/technical-writers-are-not-paid-well)
+* Technical writing has a very rigid structure<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writing has a very rigid structure]({{ site.mybaseurl }}/myths/technical-writing-has-a-very-rigid-structure)
+* You must have a bachelor's degree to become a technical writer<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You must have a bachelor's degree to become a technical writer]({{ site.mybaseurl }}/myths/you-must-have-a-bachelor's-degree-to-become-a-technical-writer)
 
 ## Source
 

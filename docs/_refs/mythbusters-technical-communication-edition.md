@@ -14,10 +14,10 @@ last-edited-date: 08/10/17
 
 ---
 
-* technical communication is straightforward<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)
-* technical communicators spend most, if not all, of their time writing<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical documentation is a writing intensive job]({{ site.baseurl }}/myths/technical-documentation-is-a-writing-intensive-job)
+* technical communication is straightforward<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
+* technical communicators spend most, if not all, of their time writing<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical documentation is a writing intensive job]({{ site.mybaseurl }}/myths/technical-documentation-is-a-writing-intensive-job)
 * technical communicators are actually quite autonomous
-developers and SMEs are reluctant to help technical communicators<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You can't talk to SMEs]({{ site.baseurl }}/myths/you-can't-talk-to-smes)
+developers and SMEs are reluctant to help technical communicators<br />&nbsp;&nbsp;&nbsp;&nbsp;in [You can't talk to SMEs]({{ site.mybaseurl }}/myths/you-can't-talk-to-smes)
 
 ## Source
 
