@@ -46,4 +46,3 @@ Another aspect of this myth has to do with _[long-tail](https://en.wikipedia.org
 * Redish, J. (2012). _Letting Go of the Words, Writing Web Content that Works (2nd edition)._ Amsterdam ; Boston: Morgan Kaufmann.
 * Brandt, J., Guo, P. J., Lewenstein, J., Dontcheva, M., & Klemmer, S. R. (2009). Two studies of opportunistic programming: interleaving web foraging, learning, and writing code (pp. 1589–1598). Presented at the _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, ACM.
 
-
