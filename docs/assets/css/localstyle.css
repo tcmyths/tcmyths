@@ -1,2 +1,9 @@
 /* to indent the list elements under the preceding text */
 ul, ol, dl { margin-left: 2.0em; }
+
+/* to tweak the main UI elements but keep the rest of the theme */
+a { color: #000cff; }
+a:hover { text-decoration}
+body { color: #4b4b4b; background: #FFF; }
+footer { color: #555; }
+#container {background: #FFF; }
