@@ -12,7 +12,7 @@ created-date: 08/10/17
 last-edited-date: 08/10/17
 ---
 
-* 5-to-7-plus-or-minus-2<br />procedures should have no more than nine steps<br />bulleted lists should contain only five to seven items <br />&nbsp;&nbsp;&nbsp;&nbsp;in [There is an optimum number of steps]({{ site.baseurl }}/myths/there-is-an-optimum-number-of-steps)
+* 5-to-7-plus-or-minus-2<br />procedures should have no more than nine steps<br />bulleted lists should contain only five to seven items <br />&nbsp;&nbsp;&nbsp;&nbsp;in [There is an optimum number of steps]({{ site.mybaseurl }}/myths/there-is-an-optimum-number-of-steps)
 
 ## Remarks
 

@@ -33,7 +33,7 @@ with open('RefList.csv', mode='r') as infile:
 			for mythField in reader.fieldnames:
 				if ready:
 					if (row[mythField]):
-						mythLink = "{{ site.baseurl }}/myths/" + mythField.strip().lower().replace(" ", "-")
+						mythLink = "{{ site.mybaseurl }}/myths/" + mythField.strip().lower().replace(" ", "-")
 						mythList = mythList + "* " + row[mythField] + "<br />" + "&nbsp;&nbsp;&nbsp;&nbsp;in [" + mythField + "](" + mythLink + ")\n"
 				elif mythField == 'Comment':
 					# this indicates that we've skipped the 

@@ -13,8 +13,8 @@ created-date: 08/10/17
 last-edited-date: 08/10/17
 ---
 
-* Programmers can't write<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Programmers can't write]({{ site.baseurl }}/myths/programmers-can't-write)
-* Writers can't code<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Writers can't code]({{ site.baseurl }}/myths/writers-can't-code)
+* Programmers can't write<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Programmers can't write]({{ site.mybaseurl }}/myths/programmers-can't-write)
+* Writers can't code<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Writers can't code]({{ site.mybaseurl }}/myths/writers-can't-code)
 
 ## Source
 

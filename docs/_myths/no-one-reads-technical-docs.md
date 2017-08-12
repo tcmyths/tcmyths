@@ -5,31 +5,22 @@ myth: No one reads technical docs
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/12/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Users prefer to try and experiment with a product rather than refer to its documentation.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
+The [People read on the web](http://uxmyths.com/post/647473628/myth-people-read-on-the-web) article at [UX Myths](http://uxmyths.com) lists several articles that describe how web-site visitors tend to not read the content verbatim. However, that doesn't say they never read the content. Instead, the references cited in [People read on the web](http://uxmyths.com/post/647473628/myth-people-read-on-the-web) describe many different types of reading styles from reading word for word to varios types of skimming and scanning methods.
 
-## Counter myths
+Technical documentation is generally read only when it's necessary to accomplish a task and then it's only read until readers believe they know what they need to know (Redish, 2012). 
 
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Another aspect of this myth has to do with _[long tail](https://en.wikipedia.org/wiki/Long_tail) content whose use is difficult to predict&mdash;by definitions, it might not be read often, if ever. However, this type of content can be extremely valuable to the reader when it is accessed (or not; it's hard to predict). Refernce content is a good example of this technical documentation. Because most reference topics will not be read, it's easy (however inaccurate) to generalize "most" to "all" and conclude that no on reads technical docs.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
-
-## Commentary
-
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+Understand the content's use-cases as seen from the user's perspective and then verify that understanding with research and analytics. Understand that research conducted on one type of web content, such as content intended to attact clicks, might not apply to technical documentation because the audiences have different motivations and contexts. 
 
 ## Mentions
 
@@ -40,5 +31,10 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
+* [People read on the web](http://uxmyths.com/post/647473628/myth-people-read-on-the-web)
+* [You Won't Finish this Article](http://www.slate.com/articles/technology/technology/2013/06/how_people_read_online_why_you_won_t_finish_this_article.html)
+* [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)
+* [Website Reading: It (Sometimes) Does Happen](https://www.nngroup.com/articles/how-users-read-on-the-web/)
+* Redish, J. (2012). _Letting Go of the Words, Writing Web Content that Works (2nd edition)._ Amsterdam ; Boston: Morgan Kaufmann.
+
 

@@ -14,10 +14,10 @@ last-edited-date: 08/10/17
 ---
 
 * Become a technical writer if you want to relax at work!
-Tech writing is a copy and paste job.<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.baseurl }}/myths/tech-writing-is-easy)
-* Technical writing? Who cares? No one reads it anyway!<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.baseurl }}/myths/no-one-reads-technical-docs)
-* It is a career for the language experts<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers need a technical background and sound domain knowledge]({{ site.baseurl }}/myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge)
-* Technical writers do not add value to an organization<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Documentation is a cost center]({{ site.baseurl }}/myths/documentation-is-a-cost-center)
+Tech writing is a copy and paste job.<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
+* Technical writing? Who cares? No one reads it anyway!<br />&nbsp;&nbsp;&nbsp;&nbsp;in [No one reads technical docs]({{ site.mybaseurl }}/myths/no-one-reads-technical-docs)
+* It is a career for the language experts<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers need a technical background and sound domain knowledge]({{ site.mybaseurl }}/myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge)
+* Technical writers do not add value to an organization<br />&nbsp;&nbsp;&nbsp;&nbsp;in [Documentation is a cost center]({{ site.mybaseurl }}/myths/documentation-is-a-cost-center)
 
 ## Source
 

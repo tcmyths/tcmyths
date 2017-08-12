@@ -20,7 +20,7 @@ As a writer, the sooner you can head off bad design decisions, the better. Parti
 
 ## Commentary
 
-This is to technical writing as _"We'll fix it in post"_ is to filmmaking. In practice, the flaws in a design tend to get worse over time rather than get better.
+This is to technical writing as _"We'll fix it in post"_ is to filmmaking. In practice, the flaws in a design (script, blueprint, etc.) tend to get worse over time rather than get better.
 
 ## Mentions
 
@@ -30,3 +30,5 @@ This is to technical writing as _"We'll fix it in post"_ is to filmmaking. In pr
 
 * [Writing can't fix bad design](https://medium.com/@beth.aitman/writing-cant-fix-bad-design-f318aabaaeb0) Beth Aitman (2016, Aug. 26)
 * [UX is like a joke. If you have to explain it, it isn't that good.](https://arcweb.co/good-ux-is-like-a-joke-if-you-have-to-explain-it-it-isnt-that-good/) Arasim, N. (2016, Jul 20)
+* [Myth #13: Icons enhance usability](http://uxmyths.com/post/715009009/myth-icons-enhance-usability)
+* [Fixing bad designs with documentation](http://www.g2meyer.com/usablehelp/singles/738.html)
