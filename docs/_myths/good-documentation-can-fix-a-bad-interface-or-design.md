@@ -12,7 +12,7 @@ Documentation can be created or added at the end of a product development cycle 
 
 ## Background
 
-Hart (Ten Technical Communication Myths) does not cite any research or provide any case studies or other emperical research that supports or refutes this myth. It does, however, seem reasonable to believe that a difficult interface will still be difficult to use with documentation. Somewhat less so with the help of documentation, but difficult nonetheless.
+Hart ([Ten Technical Communication Myths]({{ site.mybaseurl }}/refs/ten-technical-communication-myths)) does not cite any research or provide any case studies or other emperical research that supports or refutes this myth. It does, however, seem reasonable to believe that a difficult interface will still be difficult to use with documentation. Somewhat less so with the help of documentation, but difficult nonetheless.
 
 ## Survival tips
 
