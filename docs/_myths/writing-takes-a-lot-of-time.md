@@ -14,13 +14,15 @@ Writing always seems to take longer than expected, hoped, or desired.
 
 This myth is likely the result of a lack of familiarity with how much effort a writing assignment requires or a desire for a writing assignment to be completed in less time than is practical. 
 
+Blake ([5 Writing Myths Debunked]({{ site.mybaseurl }}/refs/5-writing-myths-debunked)) describes the perception that people have of a writer being "someone who locks himself in his room and does nothing but work on his next book."
+
 ## Counter myths
 
 * [Tech writing is easy]({{ site.mybaseurl }}/myths/tech-writing-is-easy)
 
 ## Survival tips
 
-Frequent stakeholder communication can help minimize the misunderstandings that create or reinforce this notion.
+* Frequent stakeholder communication and progress reports can help minimize the misunderstandings that create or reinforce this notion.
 
 ## Mentions
 
