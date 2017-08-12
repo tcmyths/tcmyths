@@ -7,3 +7,7 @@ a:hover { color: #000cff; text-decoration: underline; }
 body { color: #4b4b4b; background: #FFF; }
 footer { color: #555; }
 #container {background: #FFF; }
+
+/* special case for header links */
+.headlink a:hover { text-decoration: none; }
+
