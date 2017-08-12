@@ -24,7 +24,7 @@ Brandt et al. (2009) studied how software developers interacted with technical d
 
 This is a specific example of a more general observation that information is generally only read on the web when it's necessary to accomplish a task and then it's only read until readers believe they know what they need to know (Redish, 2012). 
 
-Another aspect of this myth has to do with _[long tail](https://en.wikipedia.org/wiki/Long_tail) content whose use is difficult to predict, by definition. In fact such content might never be read. However, this type of content can be extremely valuable to the reader when it is accessed (or not; it's hard to know in advance). Reference content is a good example of this technical documentation. Because most reference topics will not be read or be read very rarely, it's easy to generalize "most" to "all" and conclude that no on reads technical docs.
+Another aspect of this myth has to do with _[long-tail](https://en.wikipedia.org/wiki/Long_tail)_ content whose use is difficult to predict, by definition. In fact such content might never be read. However, this type of content can be extremely valuable to the reader when it is accessed (or not; it's hard to know in advance). Reference content is a good example of long-tail technical documentation. This myth asserts (usually with some data) that many or most reference topics will not be read or will be read very rarely. The logical fallicy of this argument is that  it generalizes "most" to "all" to conclude that no on reads technical docs.
 
 ## Survival tips
 
