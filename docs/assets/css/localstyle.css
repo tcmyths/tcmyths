@@ -5,10 +5,10 @@ ul, ol, dl { margin-left: 2.0em; }
 body { color: #4b4b4b; background: #FFF; }
 footer { color: #555; }
 
-a { color: #000cff; }
-a :hover { color: #000cff; text-decoration: underline; }
+#main_content a { color: #000cff; }
+#main_content a :hover { color: #000cff; text-decoration: underline; }
 
-.headlink a { color: #000cff; }
-.headlink a :hover { color: #000cff; text-decoration: none; }
+.headlink a { }
+.headlink a :hover { text-decoration: none; }
 
 #container {background: #FFF; }
