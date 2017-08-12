@@ -16,12 +16,12 @@
   <body>
     <div id="container">
       <div class="inner">
-      <a class="headlink" href="{{ site.mybaseurl | default: "/" }}" title="Return to the TC Myth home page">
         <header>
-          <h1>{{ site.title }}</h1>
-          <h2>{{ site.description }}</h2>
+		  <a class="headlink" href="{{ site.mybaseurl | default: "/" }}" title="Return to the TC Myth home page">
+			<h1>{{ site.title }}</h1>
+			<h2>{{ site.description }}</h2>
+		  </a>
         </header>
-	  </a>
         <hr>
         <section id="main_content">
 		  {% if page.last-edited-date == "NEVER" %}
