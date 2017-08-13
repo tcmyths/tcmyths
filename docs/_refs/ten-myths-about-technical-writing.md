@@ -28,7 +28,6 @@ last-edited-date: 08/12/17
 
 This reference is listed as a list of technical-writing myths, but the conten seems to refer more to academic writing or technical article writing.
 
-
 ## Source
 
 [Furia, C. A. (2014, July 20). Ten myths about technical writing «?Bug counting. Retrieved August 9, 2017, from http://bugcounting.net/blog/?p=99](http://bugcounting.net/blog/?p=99)
