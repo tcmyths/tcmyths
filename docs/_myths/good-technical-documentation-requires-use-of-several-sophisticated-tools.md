@@ -12,7 +12,7 @@ Authoring and publishing technical documentation requires sophisticated and spec
 
 ## Background
 
-This is a myth that is grounded in fact, but perhaps, overstates the importance of tools.
+This is a myth that is grounded in fact, but, perhaps overstates the importance of tools.
 
 Hart ([Ten Technical Communication Myths]({{ site.mybaseurl }}/refs/ten-technical-communication-myths)) describes the need for tools expertise as bases on the idea that, "Few managers want to hire a new technical communicator and wait weeks for the person to become productive with the company’s writing tools," but he continues with, "hiring on the basis of 'tool skills' ignores the fact that the ability to format text is a  very small part of our value as technical communicators." He lists some of the tool-independent value of a technical writer by saying, "They hire us because we possess the ability to pry information from the grasp of reluctant subject-matter experts, because we have that rare skill of empathizing with our audience well enough to understand that audience’s needs, and because we have the persistence to make an effort to satisfy those needs." He also points out the comparatively short lifetime of tools by saying that, "in my comparatively short career (not quite 15 years), I’ve mastered four different layout programs, half a dozen word processors, three operating systems, and more other types of programs and applets than I care to count."
 

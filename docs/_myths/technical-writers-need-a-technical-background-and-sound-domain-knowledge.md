@@ -16,7 +16,7 @@ The arguments that refute this myth tend to focus on communication skills as bei
 
 Anuradha ([14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)) describes the technical writer as "a proxy user" and refutes this myth by suggesting that "technical writer’s understanding of the product must be only what a user needs to know, certainly not what the developer knows." In some highly technical use-cases, "sound domain knowledge may be required," but there are also cases in which such knowledge isn't necessary.
 
-Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) describes cases where being "tech savvy" can be a disadvantage when, for example, "you can't imagine users not understanding how to disable a popup blocker or not knowing how to do a simple task..." In that post he mentions the [curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) cognitive bias, which he talks about further in [The curse of knowledge -- The More You Know, the Worse You Become At Communicating That Knowledge](http://idratherbewriting.com/2007/01/24/the-curse-of-knowledge-the-more-you-know-the-worse-communicator-you-become/).
+Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) describes cases where being "tech savvy" can be a disadvantage when, for example, "you can't imagine users not understanding how to disable a popup blocker or not knowing how to do a simple task..." In that post, he mentions the [curse of knowledge](https://en.wikipedia.org/wiki/Curse_of_knowledge) cognitive bias, which he talks about further in [The curse of knowledge -- The More You Know, the Worse You Become At Communicating That Knowledge](http://idratherbewriting.com/2007/01/24/the-curse-of-knowledge-the-more-you-know-the-worse-communicator-you-become/).
 
 Bob ([Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)) suggests that having an interest in technical subjects can make the job more desirable, but that it is not essential "to have other technical qualifications to be a technical writer;" however, you are likely "to acquire knowledge by asking questions from the experts in the company."
 
@@ -32,7 +32,7 @@ Prakash ([Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/r
 
 * In practice, this myth is used as an excuse by writers to avoid the position, as in "it's too technical." While some technical writing positions are extremely technical, technical communication is a very diverse field.
 
-* This myth is also used by employers to screen technical writing candidates, as in "he/she doesn't have a background that's technical." That might be true in some (narrow) circumstances, but being an excellent writer who can effectively obtain information from the subject-matter experts and clearly speak to the audience is often the most critical skill and it's one that applies across a broad range of subjec matter.
+* This myth is also used by employers to screen technical writing candidates, as in "he/she doesn't have a background that's technical." That might be true in some (narrow) circumstances, but being an excellent writer who can effectively obtain information from the subject-matter experts and clearly speak to the audience is often the most critical skill and it's one that applies across a broad range of subject matter.
 
 ## Mentions
 
