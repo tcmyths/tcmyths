@@ -1,6 +1,8 @@
-{% unless site.title contains "TEST" %}
+{% if page.comments %}
 	<section id="comments_content">
-	  {% if page.comments %}
+	  <!-- This code displays the comments and comment-entry fields -->
+	  <!--  Please do not enable this in test or forked builds as it will distort the datat and confuse the readers -->
+	  {% if site.comments %}
 		<div id="disqus_thread"></div>
 		<script>
 
@@ -21,6 +23,10 @@
 		})();
 		</script>
 		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	  {% else %}
+		<p>Comments have been disabled on this site.</p>
 	  {% endif %}
-	</section>
-{% endunless %}
+	</section>	
+{% else %}
+	<!-- Comments are disabled for this page, but there's no need to say anything about it. -->
+{% endif %}
