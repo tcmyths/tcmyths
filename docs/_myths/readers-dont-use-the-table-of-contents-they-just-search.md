@@ -1,7 +1,7 @@
 ---
-title: Everyone will need to move over to the DITA XML standard
-permalink: /myths/everyone-will-need-to-move-over-to-the-dita-xml-standard
-myth: Everyone will need to move over to the DITA XML standard
+title: Readers don't use the table of contents, they just search
+permalink: /myths/readers-dont-use-the-table-of-contents-they-just-search
+myth: Readers don't use the table of contents, they just search
 layout: myth-topic
 comments: true
 created-date: 08/14/17
@@ -33,7 +33,6 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
-* [Nine myths about technical writing]({{ site.mybaseurl }}/refs/nine-myths-about-technical-writing)
 * [Myths, Fallacies, and Lies in Technical Communication]({{ site.mybaseurl }}/refs/myths-fallacies-and-lies-in-technical-communication)
 
 ## References
