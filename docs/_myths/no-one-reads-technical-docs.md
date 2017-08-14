@@ -5,7 +5,7 @@ myth: No one reads technical docs
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: 08/12/17
+last-edited-date: 08/14/17
 ---
 
 Users prefer to try and experiment with a product rather than refer to its documentation. As a result, documentation is not required to ship the product.
@@ -34,6 +34,7 @@ Another aspect of this myth has to do with _[long-tail](https://en.wikipedia.org
 ## Mentions
 
 * [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [Myths, Fallacies, and Lies in Technical Communication]({{ site.mybaseurl }}/refs/myths-fallacies-and-lies-in-technical-communication)
 * [Nine myths about technical writing]({{ site.mybaseurl }}/refs/nine-myths-about-technical-writing)
 * [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)
 
