@@ -16,6 +16,8 @@ Anuradha ([14 Technical Writing Misconceptions That You Should Know!]({{ site.my
  
 Pratt ([Nine myths about technical writing]({{ site.mybaseurl }}/refs/nine-myths-about-technical-writing)) suggests testing that assertion by reviewing the analytics.
 
+Houser () claims this has been taken out of context and, in his presentation, refers to [a blog post by Joel Spoolsky](https://www.joelonsoftware.com/2000/04/27/designing-for-people-who-have-better-things-to-do-with-their-lives/) that starts out saying, "When you design user interfaces, it’s a good idea to keep two principles in mind: 1. Users don’t have the manual, and if they did, they wouldn’t read it. 2. In fact, users can’t read anything, and if they could, they wouldn’t want to." So, you should design your product as though people don't/won't read. Houser then sites another article [Study: Rumors of Written-Word Death Greatly Exaggerated](https://www.wired.com/2009/12/reading-expands-study/) that shows reading is not on the decline, just that the sources of reading content have changed over the years.
+
 Prakash ([Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)) asserts that documentation is a requirement by appealing to common sense; however, cites no research.
 
 This myth could also be derived from research that suggests people, in general, don't read on the web. The [People read on the web](http://uxmyths.com/post/647473628/myth-people-read-on-the-web) article at [UX Myths](http://uxmyths.com) lists several articles that describe how web-site visitors tend to not read the content verbatim. However, that doesn't say they never read the content. Instead, the references cited in [People read on the web](http://uxmyths.com/post/647473628/myth-people-read-on-the-web) describe many different types of reading styles from reading word for word to varios types of skimming and scanning methods.
@@ -46,4 +48,5 @@ Another aspect of this myth has to do with _[long-tail](https://en.wikipedia.org
 * [Website Reading: It (Sometimes) Does Happen](https://www.nngroup.com/articles/how-users-read-on-the-web/)
 * Redish, J. (2012). _Letting Go of the Words, Writing Web Content that Works (2nd edition)._ Amsterdam ; Boston: Morgan Kaufmann.
 * Brandt, J., Guo, P. J., Lewenstein, J., Dontcheva, M., & Klemmer, S. R. (2009). Two studies of opportunistic programming: interleaving web foraging, learning, and writing code (pp. 1589–1598). Presented at the _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, ACM.
-
+* [Study: Rumors of Written-Word Death Greatly Exaggerated](https://www.wired.com/2009/12/reading-expands-study/)
+* [Designing for People Who Have Better Things To Do With Their Lives](https://www.joelonsoftware.com/2000/04/27/designing-for-people-who-have-better-things-to-do-with-their-lives/)
