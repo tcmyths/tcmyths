@@ -17,7 +17,7 @@ mybaseurl:  # defined to have a base url variable that isn't used for something 
 twitter_username: bobwatsonphd
 github_username:  tcmyths
 google_analytics: UA-58134115-2
-comments: true		# testing comments for now
+comments: false		# comments disabled for now
 #
 #	These collections contain the site content
 #		myths contains the myth topics
