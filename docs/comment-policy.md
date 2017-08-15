@@ -7,7 +7,6 @@ comments: false
 
 # Site purpose
 
-
 I created tcmyths.com to collect myths expressed by and about Technical Communication. My goal was to learn more about these myths and so that all technical communicators can understand them and their appropriate context.
 
 While collecting these myths, I found that empirical information about them and their application was hard to find. To dispel some of the mystery, I added a comments section to each page to hear what you have to say.
@@ -24,13 +23,15 @@ My desire is that you will use the comments blocks to contribute your perspectiv
 
 To that end, I ask that your comments:
 
-1. Be nice and respectful. Disagreement is fine in the form of "I had a different experience when..." or "Jones contradicts Smith when she says..." (and include Jones' citation). But not in the form of "You're wrong..." or "You don't know what you're talking about."
-1. Be as factual as possible.
-2. Be about your personal experience and that you make that clear in the comment. For example, _"I have seen..."_
-3. Not be gossip. If your comment is not from your personal experience, cite the source of your information. For example, _"Smith talks about this in his blog post at http://www..."_
-4. Be witheld if you can't speak from a first-hand experience or cite your source.
+1. **Be nice and respectful.** Disagreement is fine in the form of "I had a different experience when..." or "Jones contradicts Smith when she says..." (and include Jones' citation). But not in the form of "You're wrong..." or "You don't know what you're talking about."
+1. **Be as factual as possible.**
+2. **Be about your personal experience** and that you make that clear in the comment. For example, _"I have seen..."_
+3. **Not be another myth.** If your comment is not from your personal experience, cite the source of your information. For example, _"Smith talks about this in his blog post at http://www..."_
+4. **Be witheld if you can't speak from a first-hand experience or cite your source.**
 
 Comments that do not follow the guidelines will be deleted.
+
+[New myths]({{ site.mybaseurl}}/new-myth) can be added as comments on the home page where I'll consider them for addition to the site.
 
 # Site research
 
@@ -42,7 +43,8 @@ If, at anytime, you would decide that you no longer want your comments to be sho
 
 Thank you for your interest and contributions!
 
-Robert Watson, Ph.D.
-Assistant Professor, Technical Communication
-Mercer Univeristy School of Engineering
-watson_rb@mercer.edu
+Robert Watson, Ph.D.<br/>
+Assistant Professor, Technical Communication<br/>
+Mercer Univeristy School of Engineering<br/>
+watson_rb@mercer.edu<br/>
+www.docsbydesign.com
