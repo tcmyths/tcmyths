@@ -31,7 +31,7 @@ To that end, I ask that your comments:
 1. **Be as factual as possible.**
 2. **Be about your personal experience** and that you make that clear in the comment. For example, _"I have seen..."_ <br />--or--<br />**Cite a published source** if they are about someone else's experience. Your citation should be detailed enough for us to look it up. For example, _"Smith talks about this in his blog post at http://www.example.com/interesting-page."_
 3. **Not be another myth.** New myths should be [suggested for consideration]({{ site.mybaseurl}}/new-myth) rather than added as a comment to a topic.
-4. **Be witheld if you can't speak from a first-hand experience or cite your source.**
+4. **Be witheld if you can't follow the guidelines.**
 
 Comments that do not follow the guidelines will be deleted.
 
