@@ -29,7 +29,7 @@ To that end, I ask that your comments:
 
 1. **Be nice and respectful.** Disagreement is fine in the form of "I had a different experience when..." or "Jones contradicts Smith when she says..." (and include Jones' citation). But not in the form of "You're wrong..." or "You don't know what you're talking about."
 1. **Be as factual as possible.**
-2. **Be about your personal experience** and that you make that clear in the comment. For example, _"I have seen..."_ <br />or<br />**Cite a published source** if they are about someone else's experience.
+2. **Be about your personal experience** and that you make that clear in the comment. For example, _"I have seen..."_ <br />--or--<br />**Cite a published source** if they are about someone else's experience.
 3. **Not be another myth.** If your comment is not from your personal experience, cite the source of your information such that we can look it up. For example, _"Smith talks about this in his blog post at http://www.example.com/interesting-page."_
 4. **Be witheld if you can't speak from a first-hand experience or cite your source.**
 
