@@ -7,12 +7,12 @@ comments: true
 
 # How to suggest a new myth
 
-If you know of a technical communication myth that is not listed, add it as a comment below. 
+If you know of a technical communication myth that is missing from this site, suggest it in the comments below. 
 
-Include in your comment:
+**Include in your comment:**
 * A short description of the myth
-* Any references made about the myth such as in a blog post, a web article, carved in a stone tablet somewhere (attach a photo, in this case)
-* Any other information about
+* Any references made about the myth such as in a blog post, a web article, carved in a stone tablet somewhere (attach a photo, in this case, please)
+* Any other information about the myth. See an existing myth topic for the type of information I'm collecting.
 
 # What will happen to your suggestion?
 
