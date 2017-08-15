@@ -25,6 +25,7 @@
 			{% endif %}
 		  {% endfor%}
 		  </ol>
+		  <p>Have a new myth to add? 
    	      {% assign myths-waiting = myth-counter | minus: myths-published %}
 		  {% if myths-waiting > 0 %}
 		    {% if myths-waiting != 1 %}
@@ -33,8 +34,9 @@
 			{% else %}  
 			  {% assign isare = "is" %}
 			{% endif %}  
-			<p>And, there {{ isare }} still <a href="{{ site.mybaseurl }}/coming-soon" title="Myths in progress">{{ myths-waiting }} more myth{{ s }} waiting to be published!</a></p>
+			There {{ isare }} still <a href="{{ site.mybaseurl }}/coming-soon" title="Myths in progress">{{ myths-waiting }} more myth{{ s }} waiting to be published!</a> 
 		  {% endif %}
+		  If you don't see your myth listed, <a href="{{ site.mybaseurl}}/new-myth" title="Add a new myth">add it to the list!</a></p>
 		  <h1>Myth lists</h1>
 		  <ul>
 		  {% for file in site.refs %}
