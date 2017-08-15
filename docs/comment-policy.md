@@ -35,7 +35,7 @@ To that end, I ask that your comments:
 
 Comments that do not follow the guidelines will be deleted.
 
-[New myths]({{ site.mybaseurl}}/new-myth) can be added as comments on the home page where I'll consider them for addition to the site.
+New myths should be [suggested for consideration]({{ site.mybaseurl}}/new-myth) rather than added as a comment to a topic.
 
 # Site research
 
