@@ -20,6 +20,9 @@
 		  {% endif %}
           <h1>{{ page.title  }}</h1>
           {{ content }}
+		  {% if site.comments %}
+		  <p class="myth-feedback">What do you think of this myth? <a href="http://www.surveygizmo.com/s3/3778663/Short-Myth-Survey?mythid={{ page.permalink }}&mythtext={{page.title}}" title="Answer two questions about this myth" target="_blank">Let me know in less than a minute.</a></p>
+		  {% endif %}
         </section>
 		{% include disqus.html %}
 		{% include footer.html %}
