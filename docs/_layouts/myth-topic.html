@@ -19,6 +19,9 @@
 		    <h2>*** This myth is waiting for content ***</h2>
 		  {% endif %}
           <h1>{{ page.title  }}</h1>
+		  {% if site.comments %}
+		  {% endif %}
+		  <p class="myth-feedback">What do you think of this myth? <a href="http://www.surveygizmo.com/s3/3778663/Short-Myth-Survey?mythid={{ page.permalink }}" title="Answer two questions about this myth">Let me know in less than a minute.</a></p>
           {{ content }}
         </section>
 		{% include disqus.html %}
