@@ -16,7 +16,7 @@ Hart ([Ten Technical Communication Myths]({{ site.mybaseurl }}/refs/ten-technica
 
 Hayhoe ([Why We Do the Things We Do]({{ site.mybaseurl }}/refs/why-we-do-the-things-we-do)) describes how Miller's observations have been generalized to other applications such as lists and procedures, observing that "No technical communicator who repeats or applies these myths of the field does so knowing that they are myths."
 
-UX Myths ([UX Myths | Myth #23: Choices should always be limited to 7+/-2](http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven)) includes more references to this notion and quotes from a letter by Miller (original source unavailable) in which he says that his research did not apply to "a person’s capacity to comprehend printed text."  The UX Myths topic also cites Edward Tufte saying "Miller’s paper neither states nor implies rules for the amount of information to be shown in a presentation."
+UX Myths ([UX Myths \| Myth #23: Choices should always be limited to 7+/-2](http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven)) includes more references to this notion and quotes from a letter by Miller (original source unavailable) in which he says that his research did not apply to "a person’s capacity to comprehend printed text."  The UX Myths topic also cites Edward Tufte saying "Miller’s paper neither states nor implies rules for the amount of information to be shown in a presentation."
 
 Pratt ([Nine myths about technical writing]({{ site.mybaseurl }}/refs/nine-myths-about-technical-writing)) says there's no science behind this [as applied to technical communication applications?] but, takes a pragmatic approach in other myths by encouraging testing to find out for sure.
 
