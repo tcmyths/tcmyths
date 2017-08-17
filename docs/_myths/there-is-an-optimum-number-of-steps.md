@@ -5,7 +5,7 @@ myth: There is an optimum number of steps
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/16/17
 ---
 
 Procedures and lists should not have more than X steps; where X is 5, 7, or 9, depending on the variant of the myth.
