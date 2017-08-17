@@ -5,37 +5,41 @@ myth: Technical documentation is a writing intensive job
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/16/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Technical writers must write alot.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
+While technical writers write a lot, they also perform many other tasks.
+
+Amity ([Mythbusters: Technical Communication Edition]({{ site.mybaseurl }}/refs/mythbusters-technical-communication-edition)) describes how that was her expectation before working as a tech writer but observed, "most technical communicators are lucky if they can spend even half of their time writing."
+
+Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)), on the other hand, claims "Most tech writers spend about 10% of their time writing." He then provides a long list of other tasks that a technical writer also performs.
+
+Anuradha ([14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)) claims that "technical writing teams spend only a
+small minority of their time actually writing" because "most technical writers spend a majority of their time understanding the product under study." Her point suggests that technical writers must have strong domain knowledge.
 
 ## Counter myths
 
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+* [Tech writing is easy]({{ site.baseurl}}/myths/tech-writing-is-easy)
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+* Know what you like to do and find the job that fits that best. If you like writing, there are writing-intensive positions that require a lot of writing. On the other hand, if you like tinkering with tech, there are more tinkering-intensive jobs out there, too. 
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+Technical writing covers a broad spectrum of jobs and responsibilities. Large companies tend to have more specialized technical-writing roles than smaller organizations, but it varies from case to case.
 
 ## Mentions
 
-```add links to reference topics that refer mention this myth```
+* [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)
+* [Mythbusters: Technical Communication Edition]({{ site.mybaseurl }}/refs/mythbusters-technical-communication-edition)
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
+None yet.
 
