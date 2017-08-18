@@ -5,31 +5,19 @@ myth: Callouts should not be used in graphics
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/18/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Don't mark up graphics with callouts.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Doyle ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)) describes this myth and Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) refers to Doyle. Doyle's description makes it difficult to tell if this is a myth or a simply a tool-specific practice. Doyle describes how some word-processing tools can layer image callouts while DITA does not. The myth, however, does not qualify the practice as being tool-dependant.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
-
-## Commentary
-
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+* Know how your authoring tool works and your reuse and localization requirements for your image assets.
+* Don't make more work for yourself by having to keep mutliple versions of a single image, if you can avoid it.
 
 ## Mentions
 
@@ -38,5 +26,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+None, so far.

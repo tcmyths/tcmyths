@@ -41,3 +41,4 @@ Any rule that includes "always" or "never" (or variants of those concepts) shoul
 
 Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. _Psychological Review_, 63(2), 81-97. http://dx.doi.org/10.1037/h0043158 
 
+[George Miller’s Magical Number of Immediate Memory in Retrospect: Observations on the Faltering Progression of Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486516/)

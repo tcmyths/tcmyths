@@ -5,31 +5,19 @@ myth: Stem sentences are not necessary in technical content
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/18/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Stem sentences should be used to introduce a list.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+This myth seems more like an excerpt from a style guide. Doyle ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)), referenced by Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)), cites [Geyer](http://dita.xml.org/wiki/stem-sentences) who says that while stem sentences have been common in the past, they are not supported by [DITA](http://dita.xml.org/), and are not required in technical content because the information they offer can be provided by other document elements such as heading or section headers.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
-
-## Commentary
-
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+* Follow the style guide.
+* If the content makes sense without them, don't use them.
 
 ## Mentions
 
@@ -38,5 +26,5 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
+* [Stem sentences](http://dita.xml.org/wiki/stem-sentences)
 
