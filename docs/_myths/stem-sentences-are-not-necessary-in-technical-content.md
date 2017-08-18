@@ -12,7 +12,7 @@ Stem sentences should be used to introduce a list.
 
 ## Background
 
-This myth seems more like an excerpt from a style guide. Doyle ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)), referenced by Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)), cites Geyer (http://dita.xml.org/wiki/stem-sentences) who says that while stem sentences have been common in the past, they are not supported by [DITA](http://dita.xml.org/), and are not required in technical content because the information they offer can be provided by other document elements such as heading or section headers.
+This myth seems more like an excerpt from a style guide. Doyle ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)), referenced by Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)), cites [Geyer](http://dita.xml.org/wiki/stem-sentences) who says that while stem sentences have been common in the past, they are not supported by [DITA](http://dita.xml.org/), and are not required in technical content because the information they offer can be provided by other document elements such as heading or section headers.
 
 ## Survival tips
 
