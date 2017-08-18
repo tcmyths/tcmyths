@@ -5,31 +5,18 @@ myth: Front matter must use different page numbers than the content
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/18/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Page numbers of the front-matter must be in Roman numerals.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+This doesn't seem to be a myth as much as it's an excerpt from a style guide. Doyle' ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)) description of this, referenced by Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)), makes this and chapter-based page numbers sound like a convention adopted from book printing. 
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
-
-## Commentary
-
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+* Follow the style guide for the medium you're using.
 
 ## Mentions
 
@@ -38,5 +25,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+None, so far.
