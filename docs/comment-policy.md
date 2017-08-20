@@ -23,7 +23,7 @@ Each myth topic also has an option to provide anonymous feedback.
 
 I retain the copyright of this site's content. You are welcome to link to this site and quote from it with proper attribution. All other rights are reserved. If you would like to use the site's content more extensively, please get permission, first.
 
-Your comments are yours. By entering your comments in this site, you grant me a transferable, royalty-free, non-exclusive license to reproduce your comments, in whole or in part, here and elsewhere. If I cite or quote your comments, I will attribute them to you. Basically, you're giving me persmission, in advance, to quote your comments here and elsewhere.
+Your comments are yours. By entering your comments in this site, you grant me a transferable, royalty-free, non-exclusive license to reproduce your comments, in whole or in part, here and elsewhere. If I cite or quote your comments, I will attribute them to you. Basically, you're giving me permission, in advance, to quote your comments here and elsewhere.
 
 ## Comment guidelines
 
