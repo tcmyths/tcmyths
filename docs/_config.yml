@@ -8,7 +8,7 @@ title: TC Myths
 owner_name: Bob Watson
 email: tcmyths@tcmyths.com
 lang: en-US
-description: All the technical communication myths in place.
+description: All technical communication myths in place.
 # URLS used in the docs will always start with a slash
 #  URL variables should, therefore, NEVER end with a slash character
 url: https://tcmyths.com # the base hostname & protocol for your site
