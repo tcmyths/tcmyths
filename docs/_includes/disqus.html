@@ -1,32 +1,40 @@
 {% if page.comments %}
-	<section id="comments_content">
-	  <!-- This code displays the comments and comment-entry fields -->
-	  <!--  Please do not enable this in test or forked builds as it will distort the datat and confuse the readers -->
-	  {% if site.comments %}
-		<div id="disqus_thread"></div>
-		<script>
-
-		/**
-		*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-		*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-		/*
-		var disqus_config = function () {
-		this.page.url = "http://tcmyths.com{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
-		this.page.identifier = {{ page.id }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-		};
-		*/
-		(function() { // DON'T EDIT BELOW THIS LINE
-		var d = document, s = d.createElement('script');
-		s.src = 'https://tcmyths-com.disqus.com/embed.js';
-		s.setAttribute('data-timestamp', +new Date());
-		(d.head || d.body).appendChild(s);
-		})();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-	  {% else %}
-		<p>Comments are not currently enabled on this site.</p>
-	  {% endif %}
-	</section>	
+	<div id="no_consent_set">
+		<p>To view the comments, you must first <a href="{{ site.mybaseurl }}/informed-consent" title="Open study's informed consent">consent to participate in our study</a>.</p>
+	</div>
+	<div id="consent_set" style="display: none;" >
+		<section id="comments_content">		
+		  <!-- This code displays the comments and comment-entry fields -->
+		  <!--  Please do not enable this in test or forked builds as it will distort the datat and confuse the readers -->
+		  {% if site.comments %}
+			<!-- show anonymous survey link on myth pages -->
+			{% if page.layout == "myth-topic" %}
+				<p class="myth-feedback">What do you think of this myth? <a href="http://www.surveygizmo.com/s3/3778663/Short-Myth-Survey?mythid={{ page.permalink }}&mythtext={{page.title}}" title="Answer two questions about this myth" target="_blank">Let me know in less than a minute.</a></p>
+			{% endif %}		  
+			<div id="disqus_thread"></div>
+			<script>
+			/**
+			*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+			*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+			/*
+			var disqus_config = function () {
+			this.page.url = "http://tcmyths.com{{page.url}}";  // Replace PAGE_URL with your page's canonical URL variable
+			this.page.identifier = {{ page.id }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+			};
+			*/
+			(function() { // DON'T EDIT BELOW THIS LINE
+			var d = document, s = d.createElement('script');
+			s.src = 'https://tcmyths-com.disqus.com/embed.js';
+			s.setAttribute('data-timestamp', +new Date());
+			(d.head || d.body).appendChild(s);
+			})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		  {% else %}
+			<p>Comments are not currently enabled on this site.</p>
+		  {% endif %}
+		</section>
+	</div>
 {% else %}
 	<!-- Comments are disabled for this page, but there's no need to say anything about it. -->
 {% endif %}

@@ -4,7 +4,6 @@
     {% include common_page_head.html %}
     <title>{{ site.title }} | {{ page.title  }}</title>
   </head>
-
   <body onload="tcm.init('consent_set','no_consent_set');">
     <div id="container">
       <div class="inner">
@@ -16,24 +15,14 @@
         </header>
         <hr>
         <section id="main_content">
-          <h1>{{ page.title }}</h1>
-		  <div id="ref-link">
-			<p><a href="{{ page.ref-url }}" label="Open {{ page.title }}" target="_blank">{{ page.title }}</a> ({{ page.ref-author | default: 'Author unknown' }}, {{page.ref-date | default: 'Date unknown' }})</p>
-			{% if page.myth-list %}
-				<p>Myths in this {{ page.ref-type }}:</p>
-			{% else  %}
-			    {% assign first = page.ref-type | slice: 0 | upcase %}
-				{% if 'AEIOU' contains first %}
-					{% assign prep = "an" %}
-				{% else %}
-					{% assign prep = "a" %}
-				{% endif %}
-				<p>This reference is {{ prep }} {{ page.ref-type }}.</p>
-			{% endif %}
-		  </div>
-          {{ content }}
+			{{ content }}
         </section>
-		{% include disqus.html %}
+		<div id="no_consent_set">
+			<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('consent_set','no_consent_set');" />
+		</div>
+		<div id="consent_set" style="display: none;">
+			<p>Thank you for providing your consent to participate in the study.</p>
+		</div>		
 		{% include footer.html %}
       </div>
     </div>

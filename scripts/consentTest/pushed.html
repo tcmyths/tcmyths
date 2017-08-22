@@ -3,9 +3,14 @@
 <title>Cookie Test 2</title>
 <script src="tcm.js" type="text/javascript"></script>
 </head>
-<body>
+<body onload="tcm.init('has_consent','no_consent');">
 <p>Lorem ipsum dolor sit amet, nunc quam vestibulum. Luctus nunc massa nam fusce nullam erat, at libero tellus nunc, ultrices dolor montes penatibus eget nibh. Vehicula sollicitudin taciti libero dictum neque, sapien ut amet in elit justo, sem penatibus nobis elit, ultricies duis non. Justo quisque leo, netus ornare, suspendisse non ullamcorper odio egestas. Ligula dignissim metus ullamcorper pede metus fusce, dui sodales, condimentum at, in mauris sem ultrices lorem. Proin aenean eu et ullamcorper quam, ac id eleifend arcu pellentesque, sodales quam dolor erat ante orci sodales, enim ultrices ut velit dolor ultrices, ac class eget mauris nunc.</p>
-<input type="button" value="I consent to participate in this study."  onclick="tcm_btnClick();" />
+<div id="no_consent">
+	<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('has_consent','no_consent');" />
+</div>
+<div id="has_consent" style="display: none;">
+	<p>Thank you for providing your consent.</p>
+</div>
 <a href="pushme.html">Go back to page</a>
 </body>
 </html>

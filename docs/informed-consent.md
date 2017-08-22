@@ -1,7 +1,7 @@
 ---
 title: TC Myths Informed Consent 
 permalink: informed-consent
-layout: root-page
+layout: consent-page
 comments: false
 ---
 <p style="text-align:center;">
@@ -47,5 +47,3 @@ Thank you in advance for your time and participation!
 * If you access the site from another browser or on another device, you will need to indicate your participation choice again on that browser or device.
 * You can view this page at any time from the comment policy page.
 * If at any time, you no longer want to participate, you can simply stop commenting, delete your past comments, or inform the Principal Investigator.
-
-[Yes, I want to participate](#)
