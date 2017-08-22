@@ -4,7 +4,7 @@ permalink: informed-consent
 layout: root-page
 comments: false
 ---
-<p style="text-align:center;">![Mercer University Logo]({{ site.mybaseurl}}/assets/mercer-logo.png)<br/>_School of Engineering_</p>
+<p style="text-align:center;">![Mercer University Logo]({{ site.mybaseurl}}/assets/images/mercer-logo.png)<br/>_School of Engineering_</p>
 
 **Title of Project:** Technical Communications Myth Research<br/>
 **Investigator Name:** Robert B. Watson<br/>
