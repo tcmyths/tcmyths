@@ -7,7 +7,7 @@ comments: false
 
 # Site purpose
 
-I created [tcmyths.com](http://tcmyths.com) to collect and study myths expressed by and about Technical Communication. My goal is to learn more about these myths and share that with all technical communicators. My findings from this study will appear periodically in my blog and in other publications.
+I created [tcmyths.com](http://tcmyths.com) to collect and study myths expressed by and about Technical Communication. My goal is to learn more about these myths and share that with all technical communicators. My findings from this study will appear periodically in my blog and in other publications. Participation in this study requires agreement with the study's [Informed Consent]({{ site.mybaseurl }}/informed-consent).
 
 # Site comments and other feedback
 
