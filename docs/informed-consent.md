@@ -5,8 +5,8 @@ layout: root-page
 comments: false
 ---
 
-**Title of Project:** Technical Communications Myth Research
-**Investigator Name:** Robert B. Watson
+**Title of Project:** Technical Communications Myth Research<br/>
+**Investigator Name:** Robert B. Watson<br/>
 **Email Contact Information:** watson_rb@mercer.edu
 
 You are invited to participate in an online study conducted through Mercer University. Mercer University’s Institutional Review Board (IRB) requires investigators to provide informed consent to the research participants. You must indicate your decision to participate below.
@@ -34,7 +34,7 @@ If you have questions about your rights or are dissatisfied at any time with any
 
 Thank you in advance for your time and participation!
 
-Please print a copy of this document for your records.
+**Please print a copy of this document for your records.**)
 
 ## Indicate your desire to participate in the study
 
