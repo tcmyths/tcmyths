@@ -4,7 +4,7 @@
 		  <!--  Please do not enable this in test or forked builds as it will distort the datat and confuse the readers -->
 		  {% if site.comments %}
 			<div id="no_tcm_consent_set">
-				<p>To view the comments, you must first <a href="{{ site.mybaseurl }}/informed-consent" title="Open study's informed consent">consent to participate in our study</a>.</p>
+				<p>To view the comments, you must first <a href="{{ site.mybaseurl }}/informed-consent?p={{page.permalink}}" title="Open study's informed consent">consent to participate in our study</a>.</p>
 			</div>
 			<div id="tcm_consent_set" style="display: none;" >			<!-- show anonymous survey link on myth pages -->
 				{% if page.layout == "myth-topic" %}
