@@ -96,10 +96,21 @@ var tcm = (function() {
 			tcmi_setDivState(showOnConsentArg, hideOnConsentArg)
 			tcmi_load_consent_prompt (divPromptId);
 		}
-		alert("Thank you for your consent to participate.\nClick OK to return to the home page.");
+		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.");
 		if (cookieVal == "") {
 			// navigate to the home page with some URL spice to indicate that consent was granted.
-			window.location.href = '{{ site.mybaseurl | default: "/" }}?p=consent-granted';
+			nextPage = document.referrer;
+			if (! nextPage) {
+				nextPage = '{{ site.mybaseurl | default: "/" }}';
+			}
+			// add consent query parameter
+			if (nextPage.indexOf('?') > 0) {
+				nextPage = nextPage + '&';
+			} else {
+				nextPage = nextPage + '?';
+			}			
+			nextPage = nextPage + 'p=consent-granted'
+			window.location.href = nextPage;
 		}
 		return 0;
 	}
