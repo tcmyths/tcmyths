@@ -17,10 +17,10 @@
         <section id="main_content">
 			{{ content }}
         </section>
-		<div id="no_consent_set">
-			<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('consent_set','no_consent_set');" />
+		<div id="no_tcm_consent_set">
+			<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('tcm_consent_set','no_tcm_consent_set');" />
 		</div>
-		<div id="consent_set" style="display: none;">
+		<div id="tcm_consent_set" style="display: none;">
 			<p id="tcm_consent_prompt"></p>
 		</div>		
 		<!-- the consent page cannot have a disqus section because divs will collide and it's not necessary -->
