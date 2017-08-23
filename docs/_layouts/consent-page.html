@@ -23,14 +23,16 @@
 		<div id="consent_set" style="display: none;">
 			<p>
 			<script type="text/javascript">
-				var cPrompt = "Thank you for providing your consent";
-				var cVal = tcm.getConsentCookie(); 
-				if (cVal != "") { 
-					cVal = cPrompt + " on " + cVal + ".";
-				} else {
-					cVal = cPrompt + ".";
-				}
-				document.write(cVal);
+				document.addEventListener("DOMContentLoaded", function(event) { 
+					var cPrompt = "Thank you for providing your consent";
+					var cVal = tcm.getConsentCookie(); 
+					if (cVal != "") { 
+						cVal = cPrompt + " on " + cVal + ".";
+					} else {
+						cVal = cPrompt + ".";
+					}
+					document.write(cVal);
+				});
 			</script>
 			</p>
 		</div>		
