@@ -21,7 +21,18 @@
 			<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('consent_set','no_consent_set');" />
 		</div>
 		<div id="consent_set" style="display: none;">
-			<p>Thank you for providing your consent to participate in the study.</p>
+			<p>
+			<script type="text/javascript">
+				var cPrompt = "Thank you for providing your consent";
+				var cVal = tcm.getConsentCookie(); 
+				if (cVal != "") { 
+					cVal = cPrompt + " on " + cVal + ".";
+				} else {
+					cVal = cPrompt + ".";
+				}
+				document.write(cVal);
+			</script>
+			</p>
 		</div>		
 		<!-- the consent page cannot have a disqus section because divs will collide and it's not necessary -->
 		{% include footer.html %}
