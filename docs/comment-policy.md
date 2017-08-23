@@ -13,11 +13,13 @@ I created [tcmyths.com](http://tcmyths.com) to collect and study myths expressed
 
 While collecting and researching these myths, I found that empirical information about them and their application was scarce. To help fill the knowledge gaps in these myths, each page has a comments section so that you can contribute more information.
 
-To post comments on this site, you must have a [Disqus](https://disqus.com) account and you must be 18 years old or older.
+To post comments on this site, you must have a [Disqus](https://disqus.com) account and have accepted the [informed consent to participate in the study]({{ site.mybaseurl}}/informed-consent).
 
 **Comments you add to the web site will be public and can be viewed by anyone, whether or not they are logged in or have a Disqus account.**
 
 Each myth topic also has an option to provide anonymous feedback. 
+
+[Accept or review the informed consent to participate in the study]({{ site.mybaseurl}}/informed-consent).
 
 ## Copyright and permission
 
