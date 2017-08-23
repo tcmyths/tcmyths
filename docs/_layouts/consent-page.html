@@ -15,13 +15,15 @@
         </header>
         <hr>
         <section id="main_content">
-		  {% if page.last-edited-date == "NEVER" %}
-		    <h2>*** This myth is waiting for content ***</h2>
-		  {% endif %}
-          <h1>{{ page.title  }}</h1>
-          {{ content }}
+			{{ content }}
         </section>
-		{% include disqus.html %}
+		<div id="no_tcm_consent_set">
+			<input type="button" value="   I consent to participate in this study.   "  onclick="tcm.btnClick('tcm_consent_set','no_tcm_consent_set');" />
+		</div>
+		<div id="tcm_consent_set" style="display: none;">
+			<p id="tcm_consent_prompt"></p>
+		</div>		
+		<!-- the consent page cannot have a disqus section because divs will collide and it's not necessary -->
 		{% include footer.html %}
       </div>
     </div>
