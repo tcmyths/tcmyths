@@ -1,10 +1,3 @@
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	<link rel="stylesheet" href="{{site.mybaseurl}}/assets/css/localstyle.css">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
-	<script type="text/javascript">
 var tcm = (function() {
 	/* constants used by this module */
 	var cookieName = "tcm_consent";
@@ -120,7 +113,3 @@ var tcm = (function() {
 		exportFns.getConsentCookie = tmi_getConsentCookie;
 	return exportFns;
 })();
-</script>
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->

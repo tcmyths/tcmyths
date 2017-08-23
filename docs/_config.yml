@@ -4,21 +4,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TC Myths
-owner_name: Bob Watson
-email: tcmyths@tcmyths.com
-lang: en-US
-description: All technical communication myths in place.
+#
+#
+# EDIT THESE As required
+#
+comments: true
+owner_name: YOUR_NAME # Change this to your name
+email: YOUR_EMAIL # Change this to your email
+twitter_username: YOUR_TWITTER_USERNAME # Change this to your username
+github_username:  YOUR_GITHUB_USERNAME # Change this to your user name
 # URLS used in the docs will always start with a slash
 #  URL variables should, therefore, NEVER end with a slash character
-url: https://tcmyths.com # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog
-mybaseurl:  # defined to have a base url variable that isn't used for something else by Jekyll
-twitter_username: bobwatsonphd
-github_username:  tcmyths
-google_analytics: UA-58134115-2
-comments: false		# comments disabled for now
-# comments: true		# comments enabled for testing
+url: https://docsbydesign.github.io # your URL should look like https://<YOUR_ACCOUNT>/github.io
+#
+# These properties should be OK the way they are.
+#
+title: TC Myths TEST # DO NOT CHANGE THIS
+lang: en-US # Leave this as English for now
+description: All technical communication myths in place.
+baseurl: /tcmyths # the subpath of your site, it should be OK as it is
+mybaseurl: /tcmyths # defined to have a base url variable that isn't used for something else by Jekyll, it should be OK as it is
 #
 #	These collections contain the site content
 #		myths contains the myth topics
