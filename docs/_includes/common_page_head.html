@@ -56,9 +56,9 @@ var tcm = (function() {
 		return "";
 	}
 
-	function tcmi_setDivState(showOnConsent, hideOnConsent){
-		tcmi_showDiv (showOnConsent);
-		tcmi_hideDiv (hideOnConsent);		
+	function tcmi_setDivState(showOnConsentArg, hideOnConsentArg){
+		tcmi_showDiv (showOnConsentArg);
+		tcmi_hideDiv (hideOnConsentArg);		
 	}
 	
 	function tcmi_makePrompt () {
@@ -88,22 +88,37 @@ var tcm = (function() {
 		return cookieVal;
 	}
 
-	function tmi_btnClick(showOnConsent, hideOnConsent){
+	function tmi_btnClick(showOnConsentArg, hideOnConsentArg){
 		var cookieVal = tcmi_getCookie(cookieName);
 		var now = new Date();
+		// navigate to the home page with some URL spice to indicate that consent was granted.
+		var nextPage = document.referrer;
+		if (nextPage == null) {
+				nextPage = '{{ site.mybaseurl | default: "/" }}';
+		}
 		if (cookieVal == "") {
 			tcmi_setCookie (cookieName, now, cookieExp);
-			tcmi_setDivState(showOnConsent, hideOnConsent)
+			tcmi_setDivState(showOnConsentArg, hideOnConsentArg)
 			tcmi_load_consent_prompt (divPromptId);
 		}
-		alert("Thank you for your consent to participate.");
+		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.");
+		if (cookieVal == "") {
+			// add consent query parameter
+			if (nextPage.indexOf('?') > 0) {
+				nextPage = nextPage + '&';
+			} else {
+				nextPage = nextPage + '?';
+			}			
+			nextPage = nextPage + 'p=consent-granted'
+			window.location.href = nextPage;
+		}
 		return 0;
 	}
 
-	function tmi_init(showOnConsent, hideOnConsent){
+	function tmi_init(showOnConsentArg, hideOnConsentArg){
 		var cookieVal = tcmi_getCookie(cookieName);
 		if (cookieVal != "") {
-			tcmi_setDivState(showOnConsent, hideOnConsent);
+			tcmi_setDivState(showOnConsentArg, hideOnConsentArg);
 		}
 		tcmi_load_consent_prompt (divPromptId);
 		return 0;
