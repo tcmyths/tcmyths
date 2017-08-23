@@ -1,9 +1,10 @@
 var tcm = (function() {
 	/* constants used by this module */
-	
 	var cookieName = "tcm_consent";
 	var cookieSet = "yes";
 	var cookieExp = 180; // expiration time of consent in days
+	var showOnConsent = 'tcm_consent_set';
+	var hideOnConsent = 'no_tcm_consent_set';
 
 	/* Functions meant to be called from only inside of this module */
 	
@@ -34,7 +35,7 @@ var tcm = (function() {
 		var name = cName + "=";
 		var decodedCookie = decodeURIComponent(document.cookie);
 		var ca = decodedCookie.split(';');
-		caLen = ca.length;
+		var caLen = ca.length;
 		for(var i = 0; i < caLen ; i++) {
 			var c = ca[i];
 			while (c.charAt(0) == ' ') {
@@ -53,11 +54,17 @@ var tcm = (function() {
 	}
 	
 	/* Functions meant to be called from outside of this module */
+	
+	function tmi_getConsentCookie() {
+		var cookieVal = tcmi_getCookie(cookieName);
+		return cookieVal;
+	}
 
 	function tmi_btnClick(showOnConsent, hideOnConsent){
-		cookieVal = tcmi_getCookie(cookieName);
-		if (cookieVal != cookieSet) {
-			tcmi_setCookie (cookieName, cookieSet, cookieExp);
+		var cookieVal = tcmi_getCookie(cookieName);
+		var now = new Date();
+		if (cookieVal == "") {
+			tcmi_setCookie (cookieName, now, cookieExp);
 			tcmi_setDivState(showOnConsent, hideOnConsent)
 		}
 		alert("Thank you for your consent to participate.");
@@ -65,17 +72,21 @@ var tcm = (function() {
 	}
 
 	function tmi_init(showOnConsent, hideOnConsent){
-		cookieVal = tcmi_getCookie(cookieName);
-		if (cookieVal == cookieSet) {
+		var cookieVal = tcmi_getCookie(cookieName);
+		if (cookieVal != "") {
 			tcmi_setDivState(showOnConsent, hideOnConsent);
 		}
 		return 0;
 	}
 	
+	document.addEventListener("DOMContentLoaded", function(event) { 
+		tmi_init(showOnConsent, hideOnConsent);
+	});
 	/* reaturn functions that can be called from outside the module 	*/
 	
 	var exportFns = {};
 		exportFns.init = tmi_init;
 		exportFns.btnClick = tmi_btnClick;
+		exportFns.getConsentCookie = tmi_getConsentCookie;
 	return exportFns;
 })();
