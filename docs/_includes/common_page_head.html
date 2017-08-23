@@ -101,7 +101,7 @@ var tcm = (function() {
 			tcmi_setDivState(showOnConsentArg, hideOnConsentArg)
 			tcmi_load_consent_prompt (divPromptId);
 		}
-		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.\n\n" + nextPage);
+		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.");
 		if (cookieVal == "") {
 			// add consent query parameter
 			if (nextPage.indexOf('?') > 0) {
