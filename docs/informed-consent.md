@@ -5,8 +5,8 @@ layout: consent-page
 comments: false
 ---
 <p style="text-align:center;">
-![Mercer University Logo]({{ site.mybaseurl}}/assets/images/mercer-logo.png)<br/>
-_School of Engineering_
+<img src="{{ site.mybaseurl}}/assets/images/mercer-logo.png" alt="Mercer University Logo"><br/>
+<em>School of Engineering</em>
 </p>
 
 **Title of Project:** Technical Communications Myth Research<br/>
