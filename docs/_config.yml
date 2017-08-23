@@ -20,7 +20,7 @@ url: https://docsbydesign.github.io # your URL should look like https://<YOUR_AC
 #
 title: TC Myths TEST # DO NOT CHANGE THIS
 lang: en-US # Leave this as English for now
-description: All the technical communication myths in place.
+description: All technical communication myths in place.
 baseurl: /tcmyths # the subpath of your site, it should be OK as it is
 mybaseurl: /tcmyths # defined to have a base url variable that isn't used for something else by Jekyll, it should be OK as it is
 #
