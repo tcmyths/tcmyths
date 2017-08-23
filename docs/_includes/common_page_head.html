@@ -91,18 +91,18 @@ var tcm = (function() {
 	function tmi_btnClick(showOnConsentArg, hideOnConsentArg){
 		var cookieVal = tcmi_getCookie(cookieName);
 		var now = new Date();
+		// navigate to the home page with some URL spice to indicate that consent was granted.
+		var nextPage = document.referrer;
+		if (nextPage == null) {
+				nextPage = '{{ site.mybaseurl | default: "/" }}';
+		}
 		if (cookieVal == "") {
 			tcmi_setCookie (cookieName, now, cookieExp);
 			tcmi_setDivState(showOnConsentArg, hideOnConsentArg)
 			tcmi_load_consent_prompt (divPromptId);
 		}
-		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.");
+		alert("Thank you for your consent to participate.\n\nClick OK to return to the previous page.\n\n" + nextPage);
 		if (cookieVal == "") {
-			// navigate to the home page with some URL spice to indicate that consent was granted.
-			nextPage = document.referrer;
-			if (! nextPage) {
-				nextPage = '{{ site.mybaseurl | default: "/" }}';
-			}
 			// add consent query parameter
 			if (nextPage.indexOf('?') > 0) {
 				nextPage = nextPage + '&';
