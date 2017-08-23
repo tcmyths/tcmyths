@@ -42,8 +42,8 @@ Thank you in advance for your time and participation!
 
 ## Indicate your desire to participate in the study
 
-* You must click the link below to participate in the study and read the comments. If you do not want to participate, you can go back to the previous page.
+* You must click the button below to participate in the study and read the comments. If you do not want to participate, you can go back to the previous page.
 * Your selection will be recorded on this browser by creating a cookie. If your browser has cookies disabled, you cannot participate in the study. 
-* If you access the site from another browser or on another device, you will need to indicate your participation choice again on that browser or device.
-* You can view this page at any time from the comment policy page.
+* If you access the site from another browser or on another device, you will need to indicate your participation again on that browser or device.
+* You can return to this page at any time from the [comment policy]({{ site.mybaseurl}}/comment-policy) page.
 * If at any time, you no longer want to participate, you can simply stop commenting, delete your past comments, or inform the Principal Investigator.
