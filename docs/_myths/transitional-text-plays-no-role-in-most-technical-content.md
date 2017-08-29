@@ -5,31 +5,22 @@ myth: Transitional text plays no role in most technical content
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/28/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Transitional text (between sections, for example) is not required in techincal writing and complicates reusability.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) refers to ([Myths about technical writing]({{ site.mybaseurl }}/refs/myths-about-technical-writing)) which references Hackos (2006) who says "I contend that transitional text plays no role in most technical manuals, being an unneeded relict of a book-oriented design." She suggests that such organizing text (to summarize and introduce) is neither necessary nor helpful in online content because online content is not read linearly and there are typically other organizing elements in the content to serve the same function. In the context of DITA and modular content, such text assume a context that might not always apply.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Hackos and the comments that follow her post suggest a pragmatic approach: If the content works without the text, leave it out. If it helps to have the text, keep it in. 
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+This is more of a style issue than a myth. In general, if content still works after you take something out (e.g. transitional text), leave it out. The point of the myth is to say that online content is not a book so book-oriented customs and "best practices" don't always apply.
 
 ## Mentions
 
@@ -38,5 +29,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+* Hackos, J. (2006). Do We Really Need All that Glue? published in dita.xml.org (http://dita.xml.org). Taken on Aug. 28, 2017 from http://dita.xml.org/do-we-really-need-all-glue published Aug. 29, 2006.

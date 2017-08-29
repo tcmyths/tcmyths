@@ -5,31 +5,22 @@ myth: Abbreviations can be used frequently
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/28/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Abbreviations should be used when they are likely to be understood by the audience.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Furia ([Ten myths about technical writing]({{ site.mybaseurl }}/refs/ten-myths-about-technical-writing)) talks about spelling out abbreviations on first use and then using them as needed and how they should be used as appropriate to the audience and subject matter.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Follow the style guide.
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+This seems like a matter of style and audience expectations. If readers expect an abbreviation, spelling it out will seem awkward. Likewise converting frequent phrases to abbreviations can make the text much less readable.
 
 ## Mentions
 
@@ -37,5 +28,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+Your favorite style guide

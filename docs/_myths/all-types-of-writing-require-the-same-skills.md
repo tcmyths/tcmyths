@@ -5,31 +5,22 @@ myth: All types of writing require the same skills
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/28/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Writing is writing.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Blake ([5 Writing Myths Debunked]({{ site.mybaseurl }}/refs/5-writing-myths-debunked)) observes that there are many types of writing. While they all involve words, the processes to arrive at those words can vary greatly. Blake, however, offers no supporting evidence to these statements.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Don't let the naysayers get you down. Writing is more than just putting words on a page (or screen). 
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+The work lies in coming up with the words (or the best words) to put down and not the act of putting them down.
 
 ## Mentions
 
