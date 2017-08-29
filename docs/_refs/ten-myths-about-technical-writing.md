@@ -26,7 +26,7 @@ last-edited-date: 08/12/17
 
 ## Remarks
 
-This reference is listed as a list of technical-writing myths, but the conten seems to refer more to academic writing or technical article writing.
+This reference is listed as a list of technical-writing myths, but the content seems to refer more to academic writing or technical article writing.
 
 ## Source
 

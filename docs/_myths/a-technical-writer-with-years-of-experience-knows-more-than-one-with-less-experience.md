@@ -5,31 +5,22 @@ myth: A technical writer with years of experience knows more than one with less 
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/28/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+The number of years is not a reliable measure of experience.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) describes several anecdotes of this being applied in workplace settings and observes, "Experience means nothing unless learning is taking place." He continues later with, "The pace of learning can be compressed into a very short time period, or it can drawn out over a life time."
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Don't rest on your laurels. Always be learning.
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+This is a variation of the saying, "Does he have 4,000 hours of experience or 1 hour of experience repeated 4,000 times." Meaning, you can't judge someone's ability or skill simply by how long they have been doing it. Nevertheless, "years of experience" and "years of age" are frequently used as shortcuts to estimating ability and suitability. A better metric for this would be wonderful. (Innovations/year, perhaps?)
 
 ## Mentions
 
@@ -37,5 +28,5 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
+None, so far.
 
