@@ -34,6 +34,7 @@ If there are no such counter myths, delete this section from the topic.```
 ## Mentions
 
 * [Myths, Fallacies, and Lies in Technical Communication]({{ site.mybaseurl }}/refs/myths-fallacies-and-lies-in-technical-communication)
+* [Technical Communication: Myths vs. Reality]({{ site.mybaseurl }}/refs/technical-communication-myths-vs-reality)
 
 ## References
 

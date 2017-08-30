@@ -1,10 +1,10 @@
 ---
-title: Technical writers just write
-permalink: /myths/technical-writers-just-write
-myth: Technical writers just write
+title: High school or college English class is enough
+permalink: /myths/high-school-or-college-english-class-is-enough
+myth: High school or college English class is enough
 layout: myth-topic
 comments: true
-created-date: 08/11/17
+created-date: 08/30/17
 last-edited-date: NEVER
 ---
 
@@ -34,7 +34,6 @@ If there are no such counter myths, delete this section from the topic.```
 ## Mentions
 
 * [Technical Communication: Myths vs. Reality]({{ site.mybaseurl }}/refs/technical-communication-myths-vs-reality)
-* [Technical Writing: 10 Myths and Facts (Part 2)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-2)
 
 ## References
 

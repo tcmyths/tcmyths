@@ -33,7 +33,9 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## Mentions
 
+* [Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)
 * [Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)
+
 
 ## References
 
