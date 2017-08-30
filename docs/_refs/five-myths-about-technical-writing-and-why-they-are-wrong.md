@@ -15,11 +15,11 @@ last-edited-date: 08/30/17
 
 * Technical Writing is NOT a Creative Endeavour<br>&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writing is not creative]({{ site.mybaseurl }}/myths/technical-writing-is-not-creative) 
 
-* Technical Writers are Loners and Isolationists<br>&nbsp;&nbsp;&nbsp;&nbsp;in []({{ site.mybaseurl }}/myths/)
+* Technical Writers are Loners and Isolationists<br>&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers are loners]({{ site.mybaseurl }}/myths/technical-writers-are-loners)
 
 * Technical Writers Only Write User Manuals and That’s Super Boring<br>&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers write only user manuals]({{ site.mybaseurl }}/myths/technical-writers-write-only-user-manuals)
 
-* Only native Speakers Can Be Technical Communicators<br>&nbsp;&nbsp;&nbsp;&nbsp;in You need a high command of English]({{ site.mybaseurl }}/myths/you-need-a-high-command-of-english)
+* Only native Speakers Can Be Technical Communicators<br>&nbsp;&nbsp;&nbsp;&nbsp;in [You need a high command of English]({{ site.mybaseurl }}/myths/you-need-a-high-command-of-english)
 
 * Technical Writers Need To Be “Techies”<br>&nbsp;&nbsp;&nbsp;&nbsp;in [Technical writers need a technical background and sound domain knowledge]({{ site.mybaseurl }}/myths/technical-writers-need-a-technical-background-and-sound-domain-knowledge)
 
