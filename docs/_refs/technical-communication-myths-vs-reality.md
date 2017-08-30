@@ -1,5 +1,5 @@
 ---
-title: "Technical Communication: Myths vs. Reality"
+title: "Technical Communication--Myths vs. Reality"
 permalink: /refs/technical-communication-myths-vs-reality
 layout: ref-topic
 publish_year: 2014
