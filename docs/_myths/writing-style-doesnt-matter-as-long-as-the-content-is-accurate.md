@@ -1,10 +1,10 @@
 ---
-title: Technical writers just write
-permalink: /myths/technical-writers-just-write
-myth: Technical writers just write
+title: Writing style doesn’t matter as long as the content is accurate
+permalink: /myths/writing-style-doesnt-matter-as-long-as-the-content-is-accurate
+myth: Writing style doesn’t matter as long as the content is accurate
 layout: myth-topic
 comments: true
-created-date: 08/11/17
+created-date: 08/30/17
 last-edited-date: NEVER
 ---
 
@@ -34,7 +34,6 @@ If there are no such counter myths, delete this section from the topic.```
 ## Mentions
 
 * [Technical Communication: Myths vs. Reality]({{ site.mybaseurl }}/refs/technical-communication-myths-vs-reality)
-* [Technical Writing: 10 Myths and Facts (Part 2)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-2)
 
 ## References
 

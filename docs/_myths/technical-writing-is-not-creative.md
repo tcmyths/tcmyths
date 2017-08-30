@@ -16,6 +16,8 @@ This myth depends on what you consider creative.
 
 Anuradha ([14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)) turns the myth around by saying that "Catching and holding a reader’s attention is a creative business." Creativity is required to make the content attractive to the reader.
 
+Vund ([Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)) also describes some of the creative aspects of the research and problem-solving tasks required to study a technical topic and interpreting that complex information to present it in a compreshensible form.
+
 Caruso ([Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)) refutes the myth by describing personal experiences as a freelance technical writer.
 
 It's possible that this myth grew out of observations, such as when [Patel](http://www.writerstreasure.com/creative-writing-technical-writing/) compares it to creative writing by saying that, "Creative writing is written to entertain and educate," and describing how the pleasure derived from creative work exceeds that a reader would get from techincal content. While one might evoke more pleasure than another in the reader, that seems to be disconnected from (and almost non sequitur to) the creativity required to write technical content. [Mishra](http://idratherbewriting.com/2012/03/14/guest-post-is-technical-writing-creative/) refutes the myth when she describes some of the creative activities in which she engages while writing technical content.
@@ -31,6 +33,7 @@ If creative means imagining things and then writing about them, then no, technic
 ## Mentions
 
 * [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)
 * [Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)
 
 ## References

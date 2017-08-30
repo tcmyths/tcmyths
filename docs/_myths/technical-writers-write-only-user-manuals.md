@@ -34,6 +34,9 @@ If there are no such counter myths, delete this section from the topic.```
 ## Mentions
 
 * [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
+* [Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)
+* [Technical Communication: Myths vs. Reality]({{ site.mybaseurl }}/refs/technical-communication-myths-vs-reality)
+
 
 ## References
 

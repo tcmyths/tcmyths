@@ -40,6 +40,7 @@ At the same time, there are no formal or legal requirements to become a technica
 
 * [5 Writing Myths Debunked]({{ site.mybaseurl }}/refs/5-writing-myths-debunked)
 * [Mythbusters: Technical Communication Edition]({{ site.mybaseurl }}/refs/mythbusters-technical-communication-edition)				
+* [Technical Communication: Myths vs. Reality]({{ site.mybaseurl }}/refs/technical-communication-myths-vs-reality)
 * [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)	
 * [Technical Writing: 10 Myths and Facts (Part 2)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-2)	
 

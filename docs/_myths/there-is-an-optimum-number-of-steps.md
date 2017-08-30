@@ -39,6 +39,8 @@ Any rule that includes "always" or "never" (or variants of those concepts) shoul
 
 [UX Myths \| Myth #23: Choices should always be limited to 7+/-2](http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven)
 
+[The Mythical, Magical Number 7 in Technical Writing](http://www.writing-world.com/tech/seven.shtml)
+
 Miller, G. A. (1956). The magical number seven, plus or minus two: some limits on our capacity for processing information. _Psychological Review_, 63(2), 81-97. http://dx.doi.org/10.1037/h0043158 
 
 [George Miller’s Magical Number of Immediate Memory in Retrospect: Observations on the Faltering Progression of Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486516/)

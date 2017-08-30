@@ -20,7 +20,7 @@ Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs
 
 Bob ([Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)) suggests that having an interest in technical subjects can make the job more desirable, but that it is not essential "to have other technical qualifications to be a technical writer;" however, you are likely "to acquire knowledge by asking questions from the experts in the company."
 
-Caruso ([Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)) the job as, "A great technical writer knows not only **what to ask**, but also **where to find** the right information." And that, "it’s the technical writer’s job to know how to research and transform the materials into comprehensible text for the target audience."
+Caruso ([Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)) the job as, "A great technical writer knows not only **what to ask**, but also **where to find** the right information." And that, "it’s the technical writer’s job to know how to research and transform the materials into comprehensible text for the target audience." Vind (* [Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)) make a similar observation from a first-person perspective.
 
 Prakash ([Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)) describes technical writing as "a career for those who have a passion for language, style, and consistency."
 
@@ -38,6 +38,7 @@ Prakash ([Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/r
 
 * [14 Technical Writing Misconceptions That You Should Know!]({{ site.mybaseurl }}/refs/14-technical-writing-misconceptions-that-you-should-know)
 * [14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)
+* [Five Myths About Technical Writing And Why They Are Wrong]({{ site.mybaseurl }}/refs/five-myths-about-technical-writing-and-why-they-are-wrong)
 * [Five Myths- Technical Writing Training]({{ site.mybaseurl }}/refs/five-myths-technical-writing-training)
 * [Technical Writing Is Boring, and 5 Other Misconceptions About This $100K Career]({{ site.mybaseurl }}/refs/technical-writing-is-boring,-and-5-other-misconceptions-about-this-100k-career)
 * [Technical Writing: 10 Myths and Facts (Part 1)]({{ site.mybaseurl }}/refs/technical-writing-10-myths-and-facts-part-1)
