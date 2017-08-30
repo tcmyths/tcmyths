@@ -5,31 +5,19 @@ myth: Audiences are static
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/29/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+You need to study your audience only once.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Hart ([Ten Technical Communication Myths]({{ site.mybaseurl }}/refs/ten-technical-communication-myths)) states this as "once you’ve characterized your audience through audience analysis, the job’s done and all you need to do is follow up with a round of usability testing." He then dubunks it by describing how audiences demonstrate a natural cycle of starting off as neophytes and eventually develop into power users. He also describes how technical audiences mature by using the example of how (in 2000) software manuals were able to assume the reader knows how to use Microsoft Windows when that was not the case a few years earlier.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Keep tabs on your audience. Times change. Customers change. Your help content must change to keep up.
 
-## Commentary
-
-```Additional, more controversial comments about this myth. If none, delete this heading.```
 
 ## Mentions
 
@@ -37,5 +25,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+None, so far.
