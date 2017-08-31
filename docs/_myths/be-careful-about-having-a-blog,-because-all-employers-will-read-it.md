@@ -5,31 +5,22 @@ myth: Be careful about having a blog, because all employers will read it
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/30/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Technical writers who work as an employee should not have a blog presence.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Johnson ([14 Widespread Myths about Technical Writing]({{ site.mybaseurl }}/refs/14-widespread-myths-about-technical-writing)) describes how an embarrassing online presence, such as a blog, could be found by employers and used as a reason to let you go. He posted this in 2008, when Facebook was still young, and describes what we might describe today the cost of not exercising prudence when posting content online. He suggests that posting quality content can work in your favor, however.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+It's been said since the invention of e-mail, that you shouldn't post anything online that you don't want the whole world to see. True then. True now.
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+This seems like a case of overgeneralizing from "don't post derrogatory, offensive, inflamatory, or embarrasing content online (e.g. a MySpace site)" to "don't post anything online," which, as Johnson describes, is going overboard. 
 
 ## Mentions
 
@@ -37,5 +28,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+None so far.

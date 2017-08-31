@@ -5,31 +5,24 @@ myth: Different floats should be numbered independently
 layout: myth-topic
 comments: true
 created-date: 08/11/17
-last-edited-date: NEVER
+last-edited-date: 08/30/17
 ---
 
-```A summary description of the myth--no more than a line or two. 
-This should be neutral and descriptive. Save the commentary for the 
-Commentary section. ```
-
-```AND be sure to update the last-edited-date value!!! ```
+Tables and figures should be numbered independently.
 
 ## Background
 
-```Detailed history of the myth with references, where possible```
-
-## Counter myths
-
-```List any myths that are essentially the opposite of this myth.
-If there are no such counter myths, delete this section from the topic.```
+Furia () describes this as "another mainstream practice of typography" and explains how this system does not help the reader find, for example, Figure 1, after they find Table 2. He asserts that adopting a sequential numbering scheme for elements inserted into the text would make it easier for the reader to navigate from one to another.
 
 ## Survival tips
 
-```Helpful tips for new (and not-so-new) technical writers to survive and/or correct the myth.```
+Follow the style guide for your publication. 
+
+If you are creating a style guide, do what makes it easiest for the reader.
 
 ## Commentary
 
-```Additional, more controversial comments about this myth. If none, delete this heading.```
+This is a style matter. While an argument for sequentially numbered inserts seems reasonable to apply in online content, I'm not aware of any research that indicates readers have found the separate numbering scheme to be troublesome. At the same time, not following a convention that is expected by the reader can introduce confusion, albeit temporarily.
 
 ## Mentions
 
@@ -37,5 +30,4 @@ If there are no such counter myths, delete this section from the topic.```
 
 ## References
 
-```Add any addition reference cited in the background or commentary```
-
+* [APA Tables and Figures 1](https://owl.english.purdue.edu/owl/resource/560/19/)
