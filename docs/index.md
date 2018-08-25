@@ -5,6 +5,6 @@ comments: true
 note-to-writers: This topic needs no content. Its content is auto generated when the site is built. Any content in this topic will be rendered after the auto-generated lists.
 ---
 
-For even more myths, visit [UX myths](http://uxmyths.com/)! **The more myths we bust, the better!**
+For even more myths, visit [UX myths](https://uxmyths.com/)! **The more myths we bust, the better!**
 
-Updated site: Aug. 2, 2018
+Updated site: Aug. 25, 2018
